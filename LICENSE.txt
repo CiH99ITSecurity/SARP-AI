@@ -1,0 +1,29 @@
+SARPAI System Setup License
+=============================
+
+Except where otherwise noted, all of the documentation and software included in the SARPAI Setup
+package is copyrighted by CiH99 IT Security, Inc.
+
+Copyright (C)  2012-2024 CiH99 IT Security, Inc. All rights reserved.
+
+This SARPAI is provided "as-is," without any express or implied warranty. In no event shall the
+author be held liable for any damages arising from the use of this SARPAI.
+
+Permission is granted to anyone to use this SARPAI for any purpose, including commercial
+applications, and to alter and redistribute it
+
+
+Please note: This SARPAI is subject to the terms and conditions of the cooperation agreement that obtained this SARPAI, provided that the following conditions are met:
+
+1. Installation and use rights. You may install and use only one copy of the SARPAI. 
+   You may also install 3 copies as you need to distribute the SARPAI within your organization.
+
+2. All redistributions of source code files must retain all copyright notices that are currently in
+   place, and this list of conditions without modification.
+
+3. You may not use this SARPAI if you have not obtained a valid license for the SARPAI from the server encoder or its authorized distributor. 
+   For more information about the conditions, visit : https://cih99.com/license.html
+
+
+CiH99 IT Security, Inc.
+https://www.cih99.com
