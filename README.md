@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/QRG-Barcode/refs/heads/main/QRGBarcode.png)
+![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/SARP-AI/refs/heads/main/ICON_SARP.png)
 
 README for the SARP®AI
 ========================
