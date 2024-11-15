@@ -33,4 +33,4 @@ Feedback
 ==========
 If you have any feedback, please reach out to me at sarp@cih99.com
 
-![Logo](https://sarp.cih99.com/)
+![Logo]([https://sarp.cih99.com/](https://raw.githubusercontent.com/CiH99ITSecurity/SARP-AI/refs/heads/main/LOGO_SARP.jpg))
