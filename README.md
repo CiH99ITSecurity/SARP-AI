@@ -1,6 +1,6 @@
 README for the SARP®AI
 ========================
-SARPAI is Student Affairs and Registration Project Artificial Intelligence, SARPAI for designing and printing graduation documents, certificates and endorsements for undergraduate students and graduates as soon as possible. Execution speed, information security, and data flow through man-made intelligence algorithms.
+SARPAI is Student Affairs and Registration Project Artificial Intelligence, SARPAI for designing and printing graduation documents, certificates, and endorsements for undergraduate students and graduates as soon as possible. Execution speed, information security, and data flow through man-made intelligence algorithms.
 
 Info:
 ======
@@ -33,4 +33,4 @@ Feedback
 ==========
 If you have any feedback, please reach out to me at sarp@cih99.com
 
-![Logo]([https://sarp.cih99.com/](https://raw.githubusercontent.com/CiH99ITSecurity/SARP-AI/refs/heads/main/LOGO_SARP.jpg))
+![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/SARP-AI/refs/heads/main/LOGO_SARP.jpg)
