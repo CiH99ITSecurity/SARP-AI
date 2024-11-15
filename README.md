@@ -1,3 +1,4 @@
+![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/QRG-Barcode/refs/heads/main/QRGBarcode.png)
 README for the SARP®AI
 ========================
 SARPAI is Student Affairs and Registration Project Artificial Intelligence, SARPAI for designing and printing graduation documents, certificates, and endorsements for undergraduate students and graduates as soon as possible. Execution speed, information security, and data flow through man-made intelligence algorithms.
