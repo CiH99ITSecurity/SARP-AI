@@ -7,13 +7,21 @@ SARPAI is Student Affairs and Registration Project Artificial Intelligence, SARP
 Info:
 ======
 Programming languages: Python, C++, Java, C, Swift
+
 Initial release date: 4 April 2021
+
 Release version: 4 April 2024
+
 Developer(s): Haider D. Abd, CiH99 IT Security, Inc.
+
 Platform: MS Windows, Microsoft Office
+
 Available in: Arabic Language, English Language
+
 Website: sarp.cih99.com (Arabic, English)
+
 Type: Sarp; Student Affairs and Registration Project; Software version; prototype; Generative artificial intelligence, SARP AI System
+
 Source model: Copyright reserved
 
 Links:
