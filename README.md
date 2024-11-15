@@ -18,7 +18,7 @@ Source model: Copyright reserved
 
 Links:
 ======
-Programer: Haider D. Abd ... https://www.youtube.com/@hdatechtips
+Programmer: Haider D. Abd ... https://www.youtube.com/@hdatechtips
 
 The SARP website. . . . . https://sarp.cih99.com
 
@@ -26,10 +26,13 @@ CiH99 IT Security .......... https://www.cih99.com
 
 Support ON YOUTUBE. . . . .. https://sarp.cih99.com/Support/
 
+Activate Code:
+==============
+To get the activation key, contact us on the WhatsApp number: 00964-7901976385
+
 Video
 =========
 https://www.youtube.com/playlist?list=PLijG1jBpJM-D8owNAwFrX8pi98V1O50Kd
-
 
 Feedback
 ==========
