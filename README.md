@@ -26,13 +26,10 @@ Source model: Copyright reserved
 
 Links:
 ======
-Programmer: Haider D. Abd ... https://www.youtube.com/@hdatechtips
-
-The SARP website. . . . . ....https://sarp.cih99.com
-
-CiH99 IT Security ............https://www.cih99.com
-
-Support ON YOUTUBE ...........https://sarp.cih99.com/Support/
+Programmer: Haider D. Abd .. https://www.youtube.com/@hdatechtips
+The SARP web site  . . . . . https://sarp.cih99.com
+CiH99 IT Security .......... https://www.cih99.com
+Support ON YOUTUBE. . . . .. https://sarp.cih99.com/Support/
 
 Activate Code:
 ==============
