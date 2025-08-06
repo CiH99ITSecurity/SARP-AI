@@ -1,0 +1,20 @@
+Ensure the availability of listed below system specifications before going to start SARPAI System.
+
+✅ RECOMMENDED:
+----------------
+Requires a 64-bit processor and operating system
+OS: Windows 10 64 Bit (latest update) or Windows 11 64 Bit (latest update)
+Processor: Intel Core i5-11XX or AMD Ryzen 5 3XXX or above
+Memory: 16 GB RAM or above
+DirectX: Version 12
+Network: Broadband Internet connection
+Hard Disk: SSD
+Storage: 25 GB available space
+Region in OS: Arabic
+Microsoft.NET Framework: v4.8
+Microsoft Office: 2010 exclusively
+
+✅ Very important:
+-------------------
+شاهد الفيديو قبل تنصيب نظام سارب 👇
+https://youtu.be/5fMlJIVczOY?feature=shared

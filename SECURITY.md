@@ -4,9 +4,9 @@
 
 Projects are currently being supported with security updates.
 
-| Version  | Supported         |
-| -------- | ----------------- |
-| 24.4.4.4 | CiH99 IT Security |
+| Version   | Supported         |
+| --------- | ----------------- |
+| 24.4.4.11 | CiH99 IT Security |
 
 ## Reporting a Vulnerability
 
