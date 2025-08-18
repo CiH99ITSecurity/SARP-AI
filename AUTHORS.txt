@@ -1,0 +1,66 @@
+Product
+--------
+SARP®AI (Student Affairs and Registration Project Artificial Intelligence)
+- Copyright:©2021-2025 April 4, CiH99 IT Security, Inc.
+- YouTube: https://www.youtube.com/@hdatechtips
+- Website: https://sarp.cih99.com
+
+CEO Programmer
+---------------
+Haider D. Abd (حيدر ضمير عبد)
+
+Artwork
+--------
+Khalil O. Abd ( خليل عمر عبد)
+Mohammad M. Salloom (محمد مدالله سلوم)
+
+Information
+-------------
+Emad Ghazi (عماد غازى)
+Sajida Alazzawi (ساجدة العزاوي)
+Alhassanabuelkhair (الحـسن أبوالخير)
+Sadeq A. Khalaf (صادق عبود خلف)
+Bushra A. Mohamed Saleh (بشرى احمد محمد صالح)
+
+Documentation
+-------------
+Dr. Dahmmer A. Mutlk (ضمير عبد مطلك)
+Dr. Majeed Yassin Ahmed (مجيد ياسين احمد)
+Dr. Majid H. Majid (مجيد حميد مجيد)
+Dr. Labib Zoyan Masikh (لبيب زويان مصيخ)
+Dr. Yaseen A. Khalaf (ياسين علي خلف)
+Dr. Marwan A. Abdel-Jabbar (مروان عبداللطيف عبدالجبار)
+Dr. Mohammed G. Salman (محمد غازي سلمان)
+MS. Assef R. Hmeed (عاصف رعد حميد)
+
+Legislation
+------------
+Sunan A. Husan (سنان عادل حسن)
+
+Companies 
+----------
+- CiH99 IT Security (تشفير المواقع والسيرفرات) - Iraq
+- Microsoft (مايكروسوفت) - USA
+- OpenAI (أوبن أيه آي) - USA
+- DeepSeek (ديب سيك) - China
+- Kaspersky (كاسبرسكي لاب) - Russia
+
+Localization
+------------
+Haider D. Abd (حيدر ضمير عبد) - Iraq
+Khalil O. Abd ( خليل عمر عبد) - Iraq
+Mohammad M. Salloom (محمد مدالله سلوم) - Iraq
+Emad Ghazi (عماد غازى) - Egypt
+Sajida Alazzawi (ساجدة العزاوي) - Iraq
+Alhassanabuelkhair (الحـسن أبوالخير) - Egypt
+Sadeq A. Khalaf (صادق عبود خلف) - Iraq
+Bushra A. Mohamed Saleh (بشرى احمد محمدصالح) - Iraq
+Dr. Dahmmer A. Mutlk (ضمير عبد مطلك) - Iraq
+Dr. Majeed Yassin Ahmed (مجيد ياسين احمد) - Iraq
+Dr. Majid H. Majid (مجيد حميد مجيد) - Iraq
+Dr. Labib Zoyan Masikh (لبيب زويان مصيخ) - Iraq
+Dr. Yaseen A. Khalaf (ياسين علي خلف) - Iraq
+Dr. Marwan A. Abdel-Jabbar (مروان عبداللطيف عبدالجبار) - Iraq
+Dr. Mohammed G. Salman (محمد غازي سلمان) - Iraq
+MS. Assef R. Hmeed (عاصف رعد حميد) - Iraq
+Sunan A. Husan (سنان عادل حسن) - Iraq

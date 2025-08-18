@@ -6,7 +6,7 @@ SARPAI is Student Affairs and Registration Project Artificial Intelligence, SARP
 
 Latest Release:
 ===============
-SARPAI_v24.4.4.11
+SARPAI_v24.4.4.12
 
 Very important:
 ===============
