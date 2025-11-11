@@ -6,7 +6,7 @@ Projects are currently being supported with security updates.
 
 | Version   | Supported         |
 | --------- | ----------------- |
-| 24.4.4.12 | CiH99 IT Security |
+| 24.4.4.13 | CiH99 IT Security |
 
 ## Reporting a Vulnerability
 
