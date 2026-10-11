@@ -1,4 +1,4 @@
-Ensure the availability of listed below system specifications before going to start SARPAI System.
+Ensure the availability of listed below system specifications before going to start SARPAI Pro Digital Intelligence System.
 
 ✅ RECOMMENDED:
 ----------------
@@ -9,7 +9,7 @@ Memory: 16 GB RAM or above
 DirectX: Version 12
 Network: Broadband Internet connection
 Hard Disk: SSD
-Storage: 25 GB available space
+Storage: 125 GB available space
 Region in OS: Arabic
 Microsoft.NET Framework: v4.8
 Microsoft Office: 2010 exclusively
