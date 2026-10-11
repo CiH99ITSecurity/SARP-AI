@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/SARP-AI/refs/heads/main/ICON_SARPAI.png)
+![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/SARP-AI/refs/heads/main/SARP_AI_ICON.png)
 
 README for the SARP®AI
 ========================
@@ -64,4 +64,4 @@ Feedback:
 =========
 If you have any feedback, please reach out to me at sarp@cih99.com
 
-![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/SARP-AI/refs/heads/main/LOGO_SARP.jpg)
+![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/SARP-AI/refs/heads/main/SARP_AI_LOGO.jpg)
