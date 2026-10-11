@@ -1,7 +1,7 @@
 Product
 --------
 SARP®AI (Student Affairs and Registration Project Artificial Intelligence)
-- Copyright:©2021-2025 April 4, CiH99 IT Security, Inc.
+- Copyright:©2021-2026 June 6, CiH99 IT Security, Inc.
 - YouTube: https://www.youtube.com/@hdatechtips
 - Website: https://sarp.cih99.com
 

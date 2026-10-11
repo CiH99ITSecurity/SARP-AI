@@ -2,11 +2,17 @@
 
 README for the SARP®AI
 ========================
-SARPAI is Student Affairs and Registration Project Artificial Intelligence, SARPAI for designing and printing graduation documents, certificates, and endorsements for undergraduate students and graduates as soon as possible. Execution speed, information security, and data flow through man-made intelligence algorithms.
+SARPAI is a Digital Intelligence System for Managing Student Affairs and Registration, developed to digitally transform and automate academic and administrative processes related to students and graduates.
+The system provides fast and secure management of student records, registration processes, graduation documents, certificates, endorsements, and academic data, while enabling efficient data flow and intelligent processing through artificial intelligence algorithms.
+SARPAI is built around three core principles: Speed, Security, and Intelligent Data Management.
 
 Latest Release:
 ===============
-SARPAI_v24.4.4.13
+SARP_AI_Pro_v26.6.6.6
+
+Name System
+=============
+SARP AI Pro Digital Intelligence System
 
 Very important:
 ===============
@@ -18,11 +24,11 @@ https://youtu.be/5fMlJIVczOY?feature=shared
 
 Info:
 ======
-Programming languages: Python, C++, Java, C, Swift
+Programming languages: Python, C#, Java, VB, Swift
 
 Initial release date: 4 April 2021
 
-Release version: 4 April 2024
+Release version: 6 June 2026
 
 Developer(s): Haider D. Abd, CiH99 IT Security, Inc.
 
@@ -32,7 +38,7 @@ Available in: Arabic Language, English Language
 
 Website: sarp.cih99.com (Arabic, English)
 
-Type: Sarp; Student Affairs and Registration Project; Software version; prototype; Generative artificial intelligence, SARP AI System
+Type: Sarp; Student Affairs and Registration Project; Software version; prototype; Generative artificial intelligence, SARP AI Pro, Digital Intelligence System
 
 Source model: Copyright reserved
 
