@@ -1,22 +1,69 @@
-Ensure the availability of listed below system specifications before going to start SARPAI Pro Digital Intelligence System.
+SARP AI Pro
+نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل
+Digital Intelligence System for Student Affairs & Registration
 
-✅ RECOMMENDED:
-----------------
-Requires a 64-bit processor and operating system
-OS: Windows 10 64 Bit (latest update) or Windows 11 64 Bit (latest update)
-Processor: Intel Core i5-11XX or AMD Ryzen 5 3XXX or above
-Memory: 16 GB RAM or above
-DirectX: Version 12
-Network: Broadband Internet connection
-Hard Disk: SSD
-Storage: 125 GB available space
-Region in OS: Arabic
-Microsoft.NET Framework: v4.8
-Microsoft Office: 2010 exclusively
+============================================================
+RECOMMENDED SYSTEM REQUIREMENTS | متطلبات النظام الموصى بها
+============================================================
 
-✅ Very important:
--------------------
-شاهد الفيديو قبل تنصيب نظام سارب التطوير الجديد 👇
+ENGLISH
+-------
+Ensure that your system meets the following specifications before starting the SARP AI Pro Digital Intelligence System.
+
+- Processor and OS: Requires a 64-bit processor and operating system.
+- Operating System: Windows 10 64-bit (latest updates) or Windows 11 64-bit (latest updates).
+- Processor: Intel Core i5-11XX or AMD Ryzen 5 3XXX or above.
+- Memory: 16 GB RAM or above.
+- DirectX: Version 12.
+- Network: Broadband Internet connection.
+- Storage Type: SSD.
+- Available Storage: 125 GB.
+- Windows Region: Arabic.
+- Microsoft .NET Framework: Version 4.8.
+- Microsoft Office: 2010 exclusively.
+
+العربية
+-------
+تأكد من توفر المواصفات التالية في جهازك قبل تشغيل نظام سارب للذكاء الرقمي SARP AI Pro.
+
+- المعالج ونظام التشغيل: معالج ونظام تشغيل بمعمارية 64-bit.
+- نظام التشغيل: Windows 10 إصدار 64-bit مع آخر التحديثات، أو Windows 11 إصدار 64-bit مع آخر التحديثات.
+- المعالج: Intel Core i5-11XX أو AMD Ryzen 5 3XXX أو أحدث.
+- الذاكرة العشوائية (RAM): ‏16 GB أو أكثر.
+- DirectX: الإصدار 12.
+- الاتصال بالإنترنت: اتصال إنترنت واسع النطاق.
+- نوع وحدة التخزين: SSD.
+- المساحة التخزينية المتاحة: ‏125 GB.
+- إعدادات المنطقة في Windows: اللغة العربية.
+- Microsoft .NET Framework: الإصدار 4.8.
+- Microsoft Office: إصدار 2010 حصريًا.
+
+============================================================
+VERY IMPORTANT | مهم جدًا
+============================================================
+
+ENGLISH
+-------
+Please watch the following videos before installing the new version of SARP AI Pro.
+
+1. Watch the video before installing the new SARP system:
 https://www.youtube.com/watch?v=jN2BUSWZhRY
-تفاصيل اعدادات نظام الويندوز قبل تنصيب نظام سارب 👇
+
+2. Windows settings required before installing SARP:
 https://youtu.be/5fMlJIVczOY?feature=shared
+
+العربية
+-------
+يرجى مشاهدة الفيديوهات التالية قبل تنصيب الإصدار المطوّر من نظام سارب.
+
+1. شاهد الفيديو قبل تنصيب نظام سارب التطوير الجديد:
+https://www.youtube.com/watch?v=jN2BUSWZhRY
+
+2. تفاصيل إعدادات نظام Windows قبل تنصيب نظام سارب:
+https://youtu.be/5fMlJIVczOY?feature=shared
+
+============================================================
+SARP AI Pro | نظام سارب
+Digital Transformation • Digital Intelligence • Artificial Intelligence
+التحول الرقمي • الذكاء الرقمي • الذكاء الاصطناعي
+============================================================
