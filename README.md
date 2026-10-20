@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="SARP_AI_LOGO.jpg" alt="SARP AI Official Logo" width="280">
+<img src="SARP_AI_ICON.png" alt="SARP AI Official Icon" width="140">
 
-<br><br>
-
-<img src="SARP_AI_ICON.png" alt="SARP AI Official Icon" width="90">
-
-<h1>SARP® AI</h1>
+<h1>SARP®AI</h1>
 
 <h2>نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل</h2>
 
@@ -256,7 +252,7 @@ For additional system information and documentation, visit the official Wiki.
 
 <div align="center">
 
-<img src="SARP_AI_LOGO.jpg" alt="SARP AI Official Logo" width="200">
+<img src="SARP_AI_LOGO.png" alt="SARP AI Official Logo" width="250">
 
 <h2>SARP® AI</h2>
 
