@@ -1,67 +1,103 @@
-![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/SARP-AI/refs/heads/main/SARP_AI_ICON.png)
+<div align="center">
 
-README for the SARP®AI
-========================
-SARPAI is a Digital Intelligence System for Managing Student Affairs and Registration, developed to digitally transform and automate academic and administrative processes related to students and graduates.
-The system provides fast and secure management of student records, registration processes, graduation documents, certificates, endorsements, and academic data, while enabling efficient data flow and intelligent processing through artificial intelligence algorithms.
-SARPAI is built around three core principles: Speed, Security, and Intelligent Data Management.
+<img src="LOGO_SARP.jpg" alt="SARP AI Logo" width="220">
 
-Latest Release:
-===============
-SARP_AI_Pro_v26.6.6.6
+# SARP® AI
+## Student Affairs and Registration Project Artificial Intelligence
+### نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل
 
-Name System
-=============
-SARP AI Pro Digital Intelligence System
+**Digital Transformation • Digital Intelligence • Artificial Intelligence**  
+**التحول الرقمي • الذكاء الرقمي • الذكاء الاصطناعي**
 
-Very important:
-===============
-Watch the video before installing SARPAI 👇
+[Official Website](https://sarp.cih99.com) ·
+[GitHub Wiki](https://github.com/CiH99ITSecurity/SARP-AI/wiki) ·
+[Releases](https://github.com/CiH99ITSecurity/SARP-AI/releases) ·
+[Discussions & User Feedback](https://github.com/CiH99ITSecurity/SARP-AI/discussions)
 
-https://www.youtube.com/watch?v=jN2BUSWZhRY
+</div>
 
-https://youtu.be/5fMlJIVczOY?feature=shared
+---
 
-Info:
-======
-Programming languages: Python, C#, Java, VB, Swift
+## 🇮🇶 نبذة عن النظام | About SARP AI
 
-Initial release date: 4 April 2021
+**سارب SARP® AI** هو اختصار لـ **Student Affairs and Registration Project Artificial Intelligence**، وهو نظام مخصص للمساعدة في تصميم وطباعة وثائق التخرج والشهادات والتأييدات لطلبة الدراسات الأولية والخريجين، مع التركيز على سرعة التنفيذ وأمن المعلومات وتدفق البيانات.
 
-Release version: 6 June 2026
+**SARP® AI** stands for **Student Affairs and Registration Project Artificial Intelligence**. The system is designed to help prepare and print graduation documents, certificates, and endorsements for undergraduate students and graduates, with an emphasis on execution speed, information security, and data flow.
 
-Developer(s): Haider D. Abd, CiH99 IT Security, Inc.
+> للحصول على التفاصيل الكاملة والمعلومات التكميلية، يُرجى الرجوع إلى [الويكي الرسمي للمشروع](https://github.com/CiH99ITSecurity/SARP-AI/wiki).  
+> For further details and supporting information, please refer to the [official project Wiki](https://github.com/CiH99ITSecurity/SARP-AI/wiki).
 
-Platform: MS Windows, Microsoft Office
+## ✨ معلومات النظام | System Information
 
-Available in: Arabic Language, English Language
+| البند | التفاصيل |
+|---|---|
+| اسم النظام / System name | SARP® AI |
+| الاسم الكامل / Full name | Student Affairs and Registration Project Artificial Intelligence |
+| المطوّر / Developer | Haider D. Abd, CiH99 IT Security, Inc. |
+| المنصة / Platform | Microsoft Windows, Microsoft Office |
+| اللغات / Languages | العربية والإنجليزية / Arabic and English |
+| تاريخ الإصدار الأول / Initial release date | 4 April 2021 |
+| الإصدار المذكور في معلومات المستودع / Release shown in repository information | SARPAI v24.4.4.13 |
+| الموقع الرسمي / Official website | [sarp.cih99.com](https://sarp.cih99.com) |
+| حقوق المصدر / Source rights | Copyright reserved — جميع الحقوق محفوظة |
 
-Website: sarp.cih99.com (Arabic, English)
+*ملاحظة / Note: الإصدار أعلاه هو الإصدار المذكور في معلومات المستودع الحالية، وليس تأكيدًا على أحدث إصدار متاح خارج المستودع.*  
+*The version above is the one currently stated in the repository information; it is not a claim that no newer version exists elsewhere.*
 
-Type: Sarp; Student Affairs and Registration Project; Software version; prototype; Generative artificial intelligence, SARP AI Pro, Digital Intelligence System
+## 📥 التحميل والتثبيت | Download & Installation
 
-Source model: Copyright reserved
+- **صفحة الإصدارات / Releases page:** [SARP AI Releases](https://github.com/CiH99ITSecurity/SARP-AI/releases)
+- **ملفات المشروع / Repository files:** [Browse repository files](https://github.com/CiH99ITSecurity/SARP-AI)
 
-Links:
-======
-Programmer: Haider D. Abd .. https://www.youtube.com/@hdatechtips
+**قبل التثبيت / Before installation:** يُرجى مشاهدة فيديوهات التثبيت أولًا.  
+Please watch the installation videos before installing the system.
 
-The SARP website. . . . . https://sarp.cih99.com
+- [Installation video 1](https://www.youtube.com/watch?v=jN2BUSWZhRY)
+- [Installation video 2](https://youtu.be/5fMlJIVczOY?feature=shared)
+- [Video playlist / قائمة الفيديوهات](https://www.youtube.com/playlist?list=PLijG1jBpJM-D8owNAwFrX8pi98V1O50Kd)
 
-CiH99 IT Security .......... https://www.cih99.com
+## 🌐 الروابط الرسمية | Official Links
 
-Support ON YOUTUBE. . . . .. https://sarp.cih99.com/Support/
+- **الموقع الرسمي / Official website:** [sarp.cih99.com](https://sarp.cih99.com)
+- **الدعم / Support:** [SARP Support](https://sarp.cih99.com/Support/)
+- **شركة CiH99 IT Security:** [cih99.com](https://www.cih99.com)
+- **قناة المطوّر / Developer channel:** [Haider D. Abd — YouTube](https://www.youtube.com/@hdatechtips)
+- **GitHub Wiki:** [دليل ومعلومات المشروع / Project documentation](https://github.com/CiH99ITSecurity/SARP-AI/wiki)
 
-Activate Code:
-==============
-To get the activation key, contact us on the WhatsApp number: 00964-7901976385
+## 💬 آراء المستخدمين والدعم | User Feedback & Support
 
-Video:
-======
-https://www.youtube.com/playlist?list=PLijG1jBpJM-D8owNAwFrX8pi98V1O50Kd
+يمكنكم مشاركة آرائكم وتجاربكم واقتراحاتكم أو طرح الأسئلة في مناقشات GitHub الخاصة بالمشروع.  
+Share your experience, feedback, suggestions, or questions in the project's GitHub Discussions.
 
-Feedback:
-=========
-If you have any feedback, please reach out to me at sarp@cih99.com
+- [⭐ User Reviews / آراء المستخدمين](https://github.com/CiH99ITSecurity/SARP-AI/discussions)
+- [Questions & Answers / الأسئلة والأجوبة](https://github.com/CiH99ITSecurity/SARP-AI/discussions)
+- [Report a technical issue / الإبلاغ عن مشكلة تقنية](https://github.com/CiH99ITSecurity/SARP-AI/issues)
 
-![Logo](https://raw.githubusercontent.com/CiH99ITSecurity/SARP-AI/refs/heads/main/SARP_AI_LOGO.jpg)
+للملاحظات عبر البريد الإلكتروني / For feedback by email: **sarp@cih99.com**
+
+## 🔑 التفعيل والتواصل | Activation & Contact
+
+للاستفسار عن مفتاح التفعيل، تشير معلومات المستودع إلى إمكانية التواصل عبر واتساب على الرقم التالي:  
+For activation-key enquiries, the repository information lists the following WhatsApp contact:
+
+**WhatsApp:** `00964-7901976385`
+
+## 🔐 الترخيص والأمان | License & Security
+
+- يُرجى مراجعة ملف [LICENSE.txt](https://github.com/CiH99ITSecurity/SARP-AI/blob/main/LICENSE.txt) لمعرفة شروط الترخيص وحقوق الاستخدام.  
+  Please review [LICENSE.txt](https://github.com/CiH99ITSecurity/SARP-AI/blob/main/LICENSE.txt) for licensing terms and usage rights.
+- يُرجى مراجعة [SECURITY.md](https://github.com/CiH99ITSecurity/SARP-AI/blob/main/SECURITY.md) للاطلاع على سياسة الأمان.  
+  Please review [SECURITY.md](https://github.com/CiH99ITSecurity/SARP-AI/blob/main/SECURITY.md) for the security policy.
+- **حقوق المصدر محفوظة / Source rights reserved.** لا تفترض أن المشروع مفتوح المصدر؛ راجع ملف الترخيص قبل إعادة الاستخدام أو إعادة التوزيع.  
+  Do not assume the project is open source; consult the license before reuse or redistribution.
+
+---
+
+<div align="center">
+
+**SARP® AI — Student Affairs and Registration Project Artificial Intelligence**  
+**نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل**
+
+[الموقع الرسمي / Official Website](https://sarp.cih99.com)
+
+</div>
