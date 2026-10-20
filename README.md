@@ -3,6 +3,7 @@
 <img src="SARP_AI_ICON.png" alt="SARP AI Official Icon" width="140">
 
 <h1>SARP®AI</h1>
+<h1>نظام سارب</h1>
 
 <h2>نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل</h2>
 
