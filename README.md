@@ -1,106 +1,208 @@
 <div align="center">
 
-<img src="SARP_AI_ICON.png" alt="SARP AI Official Icon" width="140">
+<img src="SARP_AI_ICON.png" alt="أيقونة نظام سارب | SARP AI Icon" width="140">
 
-<h1>SARP®AI</h1>
 <h1>نظام سارب</h1>
 
 <h2>نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل</h2>
 
-<h3>Student Affairs and Registration Project Artificial Intelligence</h3>
+<h3>Digital Intelligence System for Student Affairs &amp; Registration</h3>
+
+<p><strong>SARP AI Pro</strong></p>
 
 <p>
-<strong>Digital Transformation • Digital Intelligence • Artificial Intelligence</strong>
+Digital Transformation • Digital Intelligence • Artificial Intelligence
 <br>
 التحول الرقمي • الذكاء الرقمي • الذكاء الاصطناعي
 </p>
 
 <p>
-<a href="https://sarp.cih99.com">Official Website | الموقع الرسمي</a>
-•
-<a href="https://github.com/CiH99ITSecurity/SARP-AI/wiki">Official Wiki | الويكي الرسمي</a>
-•
-<a href="https://github.com/CiH99ITSecurity/SARP-AI/releases">Downloads | التحميل</a>
-•
-<a href="https://github.com/CiH99ITSecurity/SARP-AI/discussions">Community | مجتمع المستخدمين</a>
+<a href="https://sarp.cih99.com">الموقع الرسمي | Official Website</a> •
+<a href="https://github.com/CiH99ITSecurity/SARP-AI/wiki">الويكي الرسمي | Official Wiki</a> •
+<a href="https://github.com/CiH99ITSecurity/SARP-AI/releases/tag/SARP_AI_Pro_v26_6_6_6">التحميل | Downloads</a> •
+<a href="https://github.com/CiH99ITSecurity/SARP-AI/discussions">مجتمع المستخدمين | Community</a>
 </p>
 
 </div>
 
 ---
 
-# 🇮🇶 نبذة عن النظام | About SARP AI
+# 🇮🇶 نبذة عن النظام | About the System
 
 ## العربية
 
-**سارب SARP® AI** هو اختصار لـ:
+**نظام سارب — نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل** هو نظام مطوّر من نظام سارب الذكاء الاصطناعي، يوظّف خوارزميات الذكاء الاصطناعي وتقنيات التحول الرقمي بهدف تطوير إدارة البيانات وأتمتة الإجراءات والارتقاء بمستوى الأداء.
 
-**Student Affairs and Registration Project Artificial Intelligence**
+يهدف النظام إلى دعم أعمال شؤون الطلبة والتسجيل في مؤسسات التعليم العالي، وتنظيم البيانات الأكاديمية، وتسهيل الإجراءات الإدارية، ودعم إعداد التقارير والوثائق الرقمية وفق الوظائف المتاحة في النظام.
 
-نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل، وهو نظام تم تطويره للمساعدة في تصميم وطباعة وثائق التخرج والشهادات والتأييدات لطلبة الدراسات الأولية والخريجين بأسرع وقت ممكن، مع التركيز على سرعة التنفيذ وأمن المعلومات وتدفق البيانات.
-
-يجمع النظام بين التحول الرقمي والإدارة الذكية للبيانات، بهدف تطوير الإجراءات التقليدية وتسهيل إنجاز الأعمال المتعلقة بشؤون الطلبة والتسجيل.
-
-للاطلاع على التفاصيل الكاملة ومعلومات المشروع، يرجى زيارة [الويكي الرسمي لنظام SARP AI](https://github.com/CiH99ITSecurity/SARP-AI/wiki).
+للاطلاع على معلومات النظام وتوثيقه، يرجى زيارة [الويكي الرسمي لنظام SARP AI Pro](https://github.com/CiH99ITSecurity/SARP-AI/wiki).
 
 ## English
 
-**SARP® AI** stands for:
+**SARP System — Digital Intelligence System for Student Affairs & Registration** is developed from the SARP artificial intelligence system. It applies intelligent algorithms and digital transformation techniques with the aim of improving data management, automating procedures, and enhancing performance.
 
-**Student Affairs and Registration Project Artificial Intelligence**
+The system is intended to support student affairs and registration in higher education institutions, organize academic data, facilitate administrative workflows, and support reporting and digital-document processes according to the functions available in the system.
 
-SARP AI is a digital system designed to assist with preparing and printing graduation documents, certificates, and endorsements for undergraduate students and graduates as efficiently as possible.
-
-The system emphasizes execution speed, information security, and data flow. It aims to support digital transformation and improve the management of student affairs and registration processes.
-
-For complete documentation and additional project information, visit the [Official SARP AI Wiki](https://github.com/CiH99ITSecurity/SARP-AI/wiki).
+For system information and documentation, visit the [official SARP AI Pro Wiki](https://github.com/CiH99ITSecurity/SARP-AI/wiki).
 
 ---
 
-# ✨ المزايا والأهداف | Features & Objectives
+# 🎯 الرؤية والرسالة | Vision & Mission
 
-## العربية
+## الرؤية | Vision
 
-يركز نظام SARP AI على المبادئ التالية:
+الارتقاء بالتحول الرقمي في التعليم العالي من خلال الأنظمة الإدارية الذكية، وتنظيم البيانات الأكاديمية، وتطوير الحلول الرقمية.
 
-- **التحول الرقمي:** المساهمة في تطوير الإجراءات الإدارية التقليدية.
-- **سرعة التنفيذ:** تسهيل إنجاز الأعمال المتعلقة بوثائق الطلبة.
-- **أمن المعلومات:** الاهتمام بحماية المعلومات وتنظيم التعامل معها.
-- **إدارة البيانات:** دعم تدفق البيانات وتنظيمها.
-- **إعداد الوثائق:** المساعدة في تصميم وطباعة وثائق التخرج والشهادات والتأييدات.
-- **التطوير المستمر:** إتاحة مساحة للمستخدمين لتقديم الملاحظات والاقتراحات.
+To advance digital transformation in higher education through intelligent administrative systems, organized academic data, and digital solutions.
 
-## English
+## الرسالة | Mission
 
-SARP AI focuses on the following objectives:
+توفير بيئة رقمية تدعم شؤون الطلبة والتسجيل، وتحسن سير الإجراءات الإدارية، وتسهل إعداد التقارير الإحصائية، وتطور إدارة البيانات الأكاديمية.
 
-- **Digital Transformation:** Supporting the modernization of traditional administrative procedures.
-- **Execution Speed:** Helping streamline student-document workflows.
-- **Information Security:** Emphasizing the secure handling of information.
-- **Data Management:** Supporting organized data flow.
-- **Document Preparation:** Assisting with the preparation and printing of graduation documents, certificates, and endorsements.
-- **Continuous Improvement:** Providing channels for user feedback and suggestions.
+To provide a digital environment that supports student affairs and registration, improves administrative workflows, facilitates statistical reporting, and strengthens academic data management.
+
+---
+
+# 🧠 الذكاء الاصطناعي والذكاء الرقمي | Artificial & Digital Intelligence
+
+بحسب توثيق المشروع، يتضمن النظام خوارزميات ذكية وتقنيات معالجة آلية لدعم عمليات أكاديمية وإدارية محددة.
+
+According to the project documentation, the system includes intelligent algorithms and automated processing techniques to support specific academic and administrative operations.
+
+## الإمكانات الذكية | Intelligent Capabilities
+
+1. **إحصائيات الطلبة | Student Statistics** — معالجة الإحصائيات وتحديد فئات طلابية محددة، ومنها المقبولون الذين لم يستكملوا إجراءات التسجيل.
+2. **انتقال الطلبة | Student Transfers** — معالجة معلومات انتقال الطلبة بين الكليات وفق الإجراءات المدعومة.
+3. **حالات الطلبة | Student Status Analysis** — معالجة حالات الطلبة وتصنيفها لدعم العمل الأكاديمي والإداري.
+4. **الإحصائيات الجامعية | University Statistics** — معالجة البيانات الأكاديمية لإعداد التقارير والملخصات الإحصائية.
+5. **الدرجات والبيانات الدراسية | Grades & Study Data** — أتمتة العمليات المدعومة المتعلقة بالدرجات والمعلومات الدراسية.
+6. **الوثائق الرقمية | Digital Documents** — دعم إعداد وثائق التخرج والشهادات الأكاديمية والمخرجات ذات الصلة بحسب الوظائف المدعومة.
+7. **البحث عن المخالفات | Violation Search** — دعم البحث عن سجلات المخالفات باستخدام آليات البحث المطبقة.
+8. **الأسماء المركبة | Compound Names** — تطبيق خوارزميات لمعالجة الأسماء المركبة وتصحيحها وتوحيد تنسيقها.
+9. **إدارة قواعد البيانات | Database Management** — دعم إنشاء قواعد البيانات وتصحيحها وتنظيمها ومعالجة اتساق البيانات عبر العمليات الآلية.
+
+> **ملاحظة تقنية:** يصف هذا التوثيق الخوارزميات الذكية وعمليات المعالجة الآلية. لا ننسب إلى النظام نماذج تعلم آلي أو شبكات عصبية أو تكاملات مع الذكاء الاصطناعي التوليدي إلا بعد التحقق من وجودها.
+>
+> **Technical note:** This documentation describes intelligent algorithms and automated processing. Machine-learning models, neural networks, or generative-AI integrations should only be claimed when their implementation has been verified.
+
+---
+
+# ⚙️ المميزات الأساسية | Core Features
+
+## شؤون الطلبة والتسجيل | Student Affairs & Registration
+
+- إدارة معلومات الطلبة.
+- دعم إجراءات تسجيل الطلبة.
+- معالجة حالات الطلبة.
+- معالجة معلومات انتقال الطلبة.
+- Student information management.
+- Support for registration workflows.
+- Student status processing.
+- Student transfer information processing.
+
+## التقارير والإحصائيات | Reports & Statistics
+
+- معالجة إحصائيات الطلبة.
+- إعداد التقارير الإحصائية الجامعية.
+- تلخيص البيانات الأكاديمية وتصنيف الفئات الطلابية.
+- Student statistics processing.
+- University statistical reports.
+- Academic data summaries and student-category classification.
+
+## الوثائق الرقمية | Digital Documents
+
+- إعداد الوثائق الأكاديمية ووثائق التخرج.
+- دعم الوثائق العربية والإنجليزية بحسب الوظائف المطبقة.
+- تنظيم السجلات الرقمية.
+- Academic and graduation document preparation.
+- Arabic and English documents where implemented.
+- Organized digital records.
+
+## جودة البيانات | Data Quality
+
+- تصحيح الأسماء المركبة.
+- تنظيم قواعد البيانات والتحقق من اتساق البيانات.
+- معالجة البيانات آليًا.
+- Compound-name correction.
+- Database organization and data-consistency processing.
+- Automated data processing.
+
+---
+
+# 🔄 التحول الرقمي | Digital Transformation
+
+يهدف النظام إلى تقليل الاعتماد على الإجراءات الورقية التقليدية من خلال دعم سير العمل الرقمي المنظم وتحسين إدارة المعلومات.
+
+The system aims to reduce reliance on traditional paper-based procedures by supporting organized digital workflows and improving information management.
+
+### من الورق إلى الرقمنة | From Paper to Digital
+
+- تنظيم سجلات الطلبة.
+- تسهيل الوصول إلى المعلومات.
+- إعداد الوثائق رقميًا.
+- تنظيم الإجراءات الإدارية.
+- تحسين إعداد التقارير الإحصائية.
+
+- Organized student records.
+- Easier access to information.
+- Digital document preparation.
+- Structured administrative workflows.
+- Improved statistical reporting.
+
+### الصادر الرقمي | Digital Outgoing Correspondence
+
+يشمل توجه التحول الرقمي تنظيم سجلات الصادر من خلال التسجيل الإلكتروني والتسلسل العددي والبحث والمتابعة واسترجاع السجلات بطريقة منظمة، بحسب الوظائف المطبقة.
+
+The digital-transformation approach includes organizing outgoing correspondence through electronic registration, sequential numbering, searching, tracking, and structured retrieval where supported.
+
+---
+
+# 🔐 إدارة البيانات والاعتمادية | Data Management & Reliability
+
+تُعد موثوقية بيانات الطلبة عنصرًا أساسيًا في العمل الأكاديمي والإداري. يركز النظام على تنظيم البيانات وقواعد المعلومات والتحقق من اتساقها ومعالجة المعلومات بطريقة منظمة.
+
+Reliable student information is essential for academic and administrative operations. The system emphasizes structured data management, database organization, consistency checks, and controlled information processing.
+
+تعتمد إمكانات الأمان وحماية البيانات على آليات الحماية المطبقة فعليًا في البرنامج وبيئة تشغيله.
+
+Security and data-protection capabilities depend on the mechanisms actually implemented in the application and its operating environment.
+
+---
+
+# 🖥️ التقنيات المستخدمة | Technology Stack
+
+وفقًا للويكي، تشمل التقنيات البرمجية المرتبطة بالمشروع:
+
+- **C# (سي شارب):** تطوير التطبيقات والتكامل البرمجي.
+- **Python (بايثون):** المعالجة الذكية وأتمتة المهام وتحليل البيانات.
+- **Visual Basic (فيجول بيسك):** منطق التطبيقات والأتمتة والتكامل مع تقنيات Microsoft المدعومة.
+
+According to the Wiki, the project's documented programming technologies include:
+
+- **C#** — Application development and software integration.
+- **Python** — Intelligent processing, automation, and data analysis.
+- **Visual Basic** — Application logic, automation, and integration with supported Microsoft technologies.
+
+يختلف استخدام كل تقنية بحسب مكونات النظام وطريقة تنفيذها ومتطلبات التكامل بينها.
+
+The role of each technology depends on the implementation of the relevant system components and their integration requirements.
 
 ---
 
 # 📋 معلومات النظام | System Information
 
-| المعلومات بالعربية | Information in English | التفاصيل / Details |
+| البند | Property | التفاصيل / Details |
 |---|---|---|
-| اسم النظام | System Name | SARP® AI |
-| الاسم الكامل | Full Name | Student Affairs and Registration Project Artificial Intelligence |
-| اسم النظام بالعربية | Arabic Name | نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل |
-| المطوّر | Developer | Haider D. Abd, CiH99 IT Security, Inc. |
-| المنصة | Platform | Microsoft Windows, Microsoft Office |
-| اللغات | Available Languages | Arabic and English |
-| تاريخ الإصدار الأول | Initial Release Date | 4 April 2021 |
-| الإصدار المذكور في معلومات المستودع | Version Listed in Repository Information | SARPAI v24.4.4.13 |
-| الموقع الرسمي | Official Website | [sarp.cih99.com](https://sarp.cih99.com) |
-| حقوق المصدر | Source Rights | Copyright Reserved |
-
-> **ملاحظة:** رقم الإصدار المذكور أعلاه هو الإصدار الوارد في معلومات المستودع، ولا يعني بالضرورة أنه أحدث إصدار متاح حاليًا.
-
-> **Note:** The version listed above comes from the repository information and may not represent the latest version currently available.
+| اسم النظام | System Name | نظام سارب / SARP System |
+| الوصف الرسمي | Official Description | نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل / Digital Intelligence System for Student Affairs & Registration |
+| اسم المنتج | Product Name | SARP AI Pro |
+| الإصدار الموثق | Documented Version | v26.6.6.6 |
+| المجال | System Domain | شؤون الطلبة والتسجيل / Student Affairs & Registration |
+| القطاع | Sector | التعليم العالي / Higher Education |
+| التقنيات الموثقة | Documented Technologies | C#, Python, Visual Basic |
+| التوجه | Approach | التحول الرقمي والذكاء الرقمي / Digital Transformation & Digital Intelligence |
+| اللغة الأساسية | Primary Language | العربية / Arabic |
+| دعم لغات إضافية | Additional Language Support | الإنجليزية للمواد والوثائق المدعومة / English for supported materials and documents |
 
 ---
 
@@ -108,13 +210,11 @@ SARP AI focuses on the following objectives:
 
 ## العربية
 
-للحصول على ملفات النظام المتاحة، يرجى زيارة صفحة الإصدارات الرسمية على GitHub.
+للحصول على ملفات النظام المتاحة، يرجى زيارة صفحة الإصدار الرسمي على GitHub، والاطلاع على الملفات والتعليمات المرفقة بالإصدار.
 
-**[⬇️ الانتقال إلى صفحة تحميل SARP AI](https://github.com/CiH99ITSecurity/SARP-AI/releases)**
+**[⬇️ تحميل SARP AI Pro v26.6.6.6](https://github.com/CiH99ITSecurity/SARP-AI/releases/tag/SARP_AI_Pro_v26_6_6_6)**
 
-قبل تثبيت النظام، يرجى مشاهدة فيديوهات التثبيت والإرشادات المتاحة.
-
-### فيديوهات التثبيت
+يرجى مشاهدة فيديوهات التثبيت والإرشادات قبل تثبيت النظام:
 
 1. [فيديو التثبيت الأول](https://www.youtube.com/watch?v=jN2BUSWZhRY)
 2. [فيديو التثبيت الثاني](https://youtu.be/5fMlJIVczOY?feature=shared)
@@ -122,13 +222,11 @@ SARP AI focuses on the following objectives:
 
 ## English
 
-Visit the official GitHub Releases page to access the available system releases and download files.
+Visit the official GitHub release page for SARP AI Pro v26.6.6.6 and review the available files and release instructions.
 
-**[⬇️ Download SARP AI](https://github.com/CiH99ITSecurity/SARP-AI/releases)**
+**[⬇️ Download SARP AI Pro v26.6.6.6](https://github.com/CiH99ITSecurity/SARP-AI/releases/tag/SARP_AI_Pro_v26_6_6_6)**
 
-Please watch the installation guides before installing the system.
-
-### Installation Videos
+Please review the installation videos and instructions before installing:
 
 1. [Installation Video 1](https://www.youtube.com/watch?v=jN2BUSWZhRY)
 2. [Installation Video 2](https://youtu.be/5fMlJIVczOY?feature=shared)
@@ -142,7 +240,8 @@ Please watch the installation guides before installing the system.
 |---|---|---|
 | الموقع الرسمي | Official Website | [sarp.cih99.com](https://sarp.cih99.com) |
 | توثيق النظام | System Documentation | [GitHub Wiki](https://github.com/CiH99ITSecurity/SARP-AI/wiki) |
-| تحميل الإصدارات | Releases & Downloads | [GitHub Releases](https://github.com/CiH99ITSecurity/SARP-AI/releases) |
+| الإصدار والتحميل | Release & Download | [SARP AI Pro v26.6.6.6](https://github.com/CiH99ITSecurity/SARP-AI/releases/tag/SARP_AI_Pro_v26_6_6_6) |
+| جميع الإصدارات | All Releases | [GitHub Releases](https://github.com/CiH99ITSecurity/SARP-AI/releases) |
 | مناقشات المستخدمين | User Discussions | [GitHub Discussions](https://github.com/CiH99ITSecurity/SARP-AI/discussions) |
 | الإبلاغ عن المشكلات | Issue Reporting | [GitHub Issues](https://github.com/CiH99ITSecurity/SARP-AI/issues) |
 | الدعم | Support | [SARP Support](https://sarp.cih99.com/Support/) |
@@ -151,73 +250,49 @@ Please watch the installation guides before installing the system.
 
 ---
 
-# 💬 آراء المستخدمين والمجتمع | User Feedback & Community
+# 💬 آراء المستخدمين والدعم | User Feedback & Support
 
 ## العربية
 
-رأي المستخدم يساعد على تطوير النظام وتحسين تجربة الاستخدام.
+نرحب بملاحظات المستخدمين وتجاربهم واقتراحاتهم للمساهمة في تحسين النظام وتطوير تجربة الاستخدام.
 
-يمكنك زيارة مناقشات المشروع من أجل:
+- مشاركة التجربة والرأي.
+- اقتراح تحسينات وميزات جديدة.
+- طرح الأسئلة ومراجعة الإجابات.
+- مشاركة الأفكار مع بقية المستخدمين.
 
-- مشاركة تجربتك مع SARP AI.
-- كتابة رأيك حول النظام.
-- اقتراح ميزات وتحسينات جديدة.
-- طرح الأسئلة والاستفادة من الإجابات.
-- مشاركة الأفكار والتجارب مع بقية المستخدمين.
+**[⭐ شاركنا رأيك في مناقشات SARP AI](https://github.com/CiH99ITSecurity/SARP-AI/discussions)**
 
-### شاركنا رأيك
+للتبليغ عن مشكلة تقنية، استخدم صفحة Issues:
 
-**[⭐ الانتقال إلى مناقشات SARP AI](https://github.com/CiH99ITSecurity/SARP-AI/discussions)**
-
-### الإبلاغ عن مشكلة تقنية
-
-إذا واجهت مشكلة تقنية، يمكنك تقديم بلاغ من خلال صفحة Issues.
-
-**[🛠️ الإبلاغ عن مشكلة](https://github.com/CiH99ITSecurity/SARP-AI/issues)**
+**[🛠️ الإبلاغ عن مشكلة تقنية](https://github.com/CiH99ITSecurity/SARP-AI/issues)**
 
 ## English
 
-User feedback helps improve SARP AI and the overall user experience.
+We welcome user feedback, experiences, and suggestions to help improve the system and user experience.
 
-Visit GitHub Discussions to:
-
-- Share your experience with SARP AI.
-- Submit feedback about the system.
-- Suggest new features and improvements.
+- Share your experience and feedback.
+- Suggest improvements and new features.
 - Ask questions and review answers.
-- Share ideas and experiences with other users.
+- Share ideas with other users.
 
-### Share Your Experience
+**[⭐ Share your experience in SARP AI Discussions](https://github.com/CiH99ITSecurity/SARP-AI/discussions)**
 
-**[⭐ Join SARP AI Discussions](https://github.com/CiH99ITSecurity/SARP-AI/discussions)**
+To report a technical issue, use GitHub Issues:
 
-### Report a Technical Issue
-
-If you encounter a technical problem, submit a report through GitHub Issues.
-
-**[🛠️ Report an Issue](https://github.com/CiH99ITSecurity/SARP-AI/issues)**
+**[🛠️ Report a technical issue](https://github.com/CiH99ITSecurity/SARP-AI/issues)**
 
 ---
 
 # 🔑 التفعيل والتواصل | Activation & Contact
 
-## العربية
-
 للاستفسار عن مفتاح التفعيل، تشير معلومات المستودع إلى إمكانية التواصل عبر واتساب:
-
-**WhatsApp:** `00964-7901976385`
-
-للملاحظات والاستفسارات عبر البريد الإلكتروني:
-
-**Email:** [sarp@cih99.com](mailto:sarp@cih99.com)
-
-## English
 
 For activation-key enquiries, the repository information lists the following WhatsApp contact:
 
 **WhatsApp:** `00964-7901976385`
 
-For feedback and enquiries by email:
+للملاحظات والاستفسارات عبر البريد الإلكتروني / For feedback and enquiries by email:
 
 **Email:** [sarp@cih99.com](mailto:sarp@cih99.com)
 
@@ -227,52 +302,52 @@ For feedback and enquiries by email:
 
 ## العربية
 
-- يرجى مراجعة ملف `LICENSE.txt` لمعرفة شروط الترخيص وحقوق الاستخدام.
-- يرجى مراجعة ملف `SECURITY.md` للاطلاع على معلومات الأمان.
+- يرجى مراجعة ملف [`LICENSE.txt`](https://github.com/CiH99ITSecurity/SARP-AI/blob/main/LICENSE.txt) لمعرفة شروط الترخيص وحقوق الاستخدام.
+- يرجى مراجعة ملف [`SECURITY.md`](https://github.com/CiH99ITSecurity/SARP-AI/blob/main/SECURITY.md) للاطلاع على معلومات الأمان.
 - حقوق المصدر محفوظة وفق المعلومات الواردة في المستودع.
 - لا تفترض أن المشروع مفتوح المصدر؛ راجع ملف الترخيص قبل إعادة الاستخدام أو إعادة التوزيع.
 
 ## English
 
-- Review [`LICENSE.txt`](LICENSE.txt) for licensing terms and usage rights.
-- Review [`SECURITY.md`](SECURITY.md) for security-related information.
+- Review [`LICENSE.txt`](https://github.com/CiH99ITSecurity/SARP-AI/blob/main/LICENSE.txt) for licensing terms and usage rights.
+- Review [`SECURITY.md`](https://github.com/CiH99ITSecurity/SARP-AI/blob/main/SECURITY.md) for security information.
 - Source rights are reserved according to the repository information.
-- Do not assume the project is open source. Review the license before reusing or redistributing any part of the project.
+- Do not assume the project is open source; review the license before reuse or redistribution.
 
 ---
 
 # 📚 التوثيق | Documentation
 
-للحصول على معلومات إضافية حول النظام، يرجى زيارة الويكي الرسمي.
+توفّر الويكي مرجعًا لمعلومات النظام وإمكاناته وطريقة استخدامه وتفاصيله التقنية وسجل تطويره.
 
-For additional system information and documentation, visit the official Wiki.
+The Wiki provides a central reference for system information, capabilities, usage, technical details, and development history.
 
-**[📖 SARP AI Official Wiki](https://github.com/CiH99ITSecurity/SARP-AI/wiki)**
+**[📖 الانتقال إلى الويكي الرسمي | Open the Official Wiki](https://github.com/CiH99ITSecurity/SARP-AI/wiki)**
 
 ---
 
 <div align="center">
 
-<img src="SARP_AI_LOGO.png" alt="SARP AI Official Logo" width="250">
+<img src="SARP_AI_LOGO.png" alt="الشعار الرسمي لنظام سارب | SARP Official Logo" width="250">
 
-<h2>SARP® AI</h2>
+<h2>نظام سارب</h2>
 
 <h3>نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل</h3>
 
-<p><strong>Student Affairs and Registration Project Artificial Intelligence</strong></p>
+<p><strong>Digital Intelligence System for Student Affairs &amp; Registration</strong></p>
 
 <p>
 Digital Transformation • Digital Intelligence • Artificial Intelligence
+<br>
+التحول الرقمي • الذكاء الرقمي • الذكاء الاصطناعي
 </p>
 
 <p>
-<a href="https://sarp.cih99.com">Official Website</a>
-•
-<a href="https://github.com/CiH99ITSecurity/SARP-AI/wiki">Documentation</a>
-•
-<a href="https://github.com/CiH99ITSecurity/SARP-AI/discussions">Community</a>
+<a href="https://sarp.cih99.com">الموقع الرسمي | Official Website</a> •
+<a href="https://github.com/CiH99ITSecurity/SARP-AI/wiki">التوثيق | Documentation</a> •
+<a href="https://github.com/CiH99ITSecurity/SARP-AI/discussions">المجتمع | Community</a>
 </p>
 
-**جميع الحقوق محفوظة | All Rights Reserved**
+<strong>جميع الحقوق محفوظة | All Rights Reserved</strong>
 
 </div>
