@@ -1,3 +1,18 @@
+SARP AI Pro | نظام سارب
+========================================
+نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل
+Digital Intelligence System for Student Affairs & Registration
+
+Product Name: SARP AI Pro
+Company: CiH99 IT Security
+Copyright: ©2021–2026 CiH99 IT Security, Inc.
+Product Version: 26.6.6.6
+
+Digital Transformation • Digital Intelligence • Artificial Intelligence
+التحول الرقمي • الذكاء الرقمي • الذكاء الاصطناعي
+
+========================================
+
 ﻿SARP_AI_Pro_v26.6.6.6
 -----------------------------------
 نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل
