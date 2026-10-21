@@ -1,108 +1,132 @@
-SARP AI Pro | نظام سارب
+نظام سارب | SARP System
 ========================================
 نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل
 Digital Intelligence System for Student Affairs & Registration
 
+SARP_AI_Pro_6
+-----------------------
 Product Name: SARP AI Pro
 Company: CiH99 IT Security
 Copyright: ©2021–2026 CiH99 IT Security, Inc.
 Product Version: 26.6.6.6
 
-Digital Transformation • Digital Intelligence • Artificial Intelligence
 التحول الرقمي • الذكاء الرقمي • الذكاء الاصطناعي
+Digital Transformation • Digital Intelligence • Artificial Intelligence
 
+
+📌 نبذة عن النظام | About the System
 ========================================
 
-﻿SARP_AI_Pro_v26.6.6.6
------------------------------------
-نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل
-Digital Intelligence System for Student Affairs & Registration
-Digital Transformation • Digital Intelligence • Artificial Intelligence
-التحول الرقمي • الذكاء الرقمي • الذكاء الاصطناعي
+العربية:
+نظام سارب هو نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل، مطوّر من نظام سارب الذكاء الاصطناعي. يوظّف خوارزميات الذكاء الاصطناعي وتقنيات التحول الرقمي بهدف تطوير إدارة البيانات وأتمتة الإجراءات والارتقاء بمستوى الأداء.
 
-📌 نبذة عن النظام
---------------------
+يدعم النظام أعمال شؤون الطلبة والتسجيل في مؤسسات التعليم العالي، ويساعد على تنظيم بيانات الطلبة والخريجين والبيانات الأكاديمية، وإدارة الإجراءات، وإعداد الوثائق والتقارير وفق الوظائف المتاحة في النظام.
 
-سارب (SARP AI Pro) هو نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل، تم تطويره ليكون منظومة متكاملة لدعم التحول الرقمي وأتمتة العمليات الأكاديمية والإدارية المرتبطة بالطلبة والخريجين.
+English:
+SARP is the Digital Intelligence System for Student Affairs & Registration, developed from the SARP artificial intelligence system. It applies artificial-intelligence algorithms and digital-transformation techniques to improve data management, automate procedures, and enhance performance.
 
-يوفر النظام بيئة متكاملة وسريعة وآمنة لإدارة وتنظيم ملفات الطلبة، وعمليات التسجيل، والبيانات الأكاديمية، ووثائق التخرج، والشهادات، والتأييدات، مع تنظيم انسيابية البيانات ومعالجتها بكفاءة وذكاء.
+The system supports student affairs and registration in higher-education institutions. It helps organize student, graduate, and academic data; manage workflows; and prepare documents and reports according to the system's available functions.
 
-كما يعتمد النظام على توظيف الذكاء الرقمي والذكاء الاصطناعي في تحليل البيانات وتنظيم الإجراءات ودعم تنفيذ العمليات الأكاديمية والإدارية بصورة أكثر سرعة ودقة وكفاءة.
 
-🧭 ركائز النظام
---------------------
+🧭 ركائز النظام | System Pillars
+========================================
 
-يرتكز SARP AI Pro على منظومة متكاملة من الركائز المترابطة، تبدأ بالتحول الرقمي، وتمر بتنظيم البيانات وإدارتها بذكاء، وصولًا إلى سرعة وكفاءة الإنجاز، ضمن إطار متكامل من الأمان وحماية المعلومات:
+🌐 1. التحول الرقمي | Digital Transformation
+العربية: تحويل الإجراءات الأكاديمية والإدارية من الأساليب التقليدية إلى بيئة رقمية منظمة، تدعم انسيابية العمليات وتوحيد الإجراءات.
+English: Moving academic and administrative procedures from traditional methods to an organized digital environment that supports workflow continuity and consistent processes.
 
-🌐 1. التحول الرقمي
-تحويل الإجراءات الأكاديمية والإدارية من الأساليب التقليدية إلى بيئة رقمية متكاملة ومنظمة، تضمن انسيابية العمليات وتوحيد الإجراءات.
+📊 2. تنظيم وإدارة البيانات | Data Organization & Management
+العربية: تنظيم البيانات الأكاديمية والإدارية وربطها، بما يدعم سهولة الوصول إليها وتدفقها بين العمليات.
+English: Organizing and connecting academic and administrative data to support accessibility and data flow between processes.
 
-📊 2. تنظيم وإدارة البيانات
-جمع البيانات الأكاديمية والإدارية وتنظيمها وربطها بصورة دقيقة، بما يضمن سهولة الوصول إليها وتدفقها بين مختلف العمليات.
+🧠 3. الذكاء الرقمي والاصطناعي | Digital & Artificial Intelligence
+العربية: توظيف الخوارزميات الذكية في معالجة البيانات وتحليلها وأتمتة الإجراءات المدعومة.
+English: Applying intelligent algorithms to process and analyze data and automate supported procedures.
 
-🧠 3. الذكاء في إدارة البيانات
-توظيف الذكاء الرقمي والذكاء الاصطناعي في معالجة البيانات وتحليلها وأتمتة الإجراءات، بما يدعم اتخاذ القرار ويرفع كفاءة العمل.
+⚡ 4. السرعة والكفاءة | Speed & Efficiency
+العربية: تقليل الوقت والجهد وتحسين سرعة تنفيذ العمليات ودقة معالجة البيانات.
+English: Reducing time and effort while improving operation speed and data-processing accuracy.
 
-⚡ 4. السرعة والكفاءة
-تحويل البيانات والإجراءات المنظمة والذكية إلى عمليات أسرع وأكثر دقة، مع تقليل الوقت والجهد وتحسين مستوى الخدمة المقدمة للطلبة والخريجين.
+🔐 5. الأمان وحماية المعلومات | Security & Information Protection
+العربية: الاهتمام بحماية البيانات والملفات والمعاملات وتنظيم التعامل مع المعلومات.
+English: Emphasizing the protection of data, files, and transactions and the organized handling of information.
 
-🔐 5. الأمان وحماية المعلومات
-توفير إطار متكامل لحماية البيانات وتنظيم صلاحيات الوصول إليها، وضمان سرية المعلومات وسلامتها وموثوقيتها عبر جميع مراحل العمل.
-
-🔗 المعادلة الأساسية للنظام
-
+المعادلة الأساسية | Core Principle:
 التحول الرقمي → تنظيم البيانات → الذكاء الرقمي والاصطناعي → السرعة والكفاءة → الأمان والاستدامة
+Digital Transformation → Data Organization → Digital & Artificial Intelligence → Speed & Efficiency → Security & Sustainability
 
-وبذلك يعمل SARP AI Pro كمنظومة مترابطة، لا تقتصر على رقمنة الإجراءات، بل تنتقل بها إلى مستوى الإدارة الذكية والآمنة للبيانات والعمليات الأكاديمية والإدارية.
 
-🚀 أبرز التطورات
-------------------------
+🚀 أبرز التطورات | Key Developments
+========================================
 
-🌐 أولًا: التحول الرقمي
-🚀 التحول الرقمي الشامل في إدارة شؤون الطلبة والتسجيل.
-🏛️ تعزيز الإدارة الرقمية لوحدات التسجيل وشؤون الطلبة والوثائق والشهادات.
-🔄 أتمتة الإجراءات والعمليات الأكاديمية والإدارية وتقليل الاعتماد على العمل اليدوي.
-🌐 الانتقال من السجلات الورقية إلى السجلات الرقمية.
-⚡ تقليل الوقت والجهد الناتج عن الإجراءات والتسجيل اليدوي.
+🌐 أولًا: التحول الرقمي | 1. Digital Transformation
+• التحول الرقمي الشامل في إدارة شؤون الطلبة والتسجيل.
+  Comprehensive digital transformation in student affairs and registration.
+• تعزيز الإدارة الرقمية لوحدات التسجيل وشؤون الطلبة والوثائق والشهادات.
+  Enhancing digital management of registration, student affairs, documents, and certificates.
+• أتمتة الإجراءات والعمليات الأكاديمية والإدارية وتقليل الاعتماد على العمل اليدوي.
+  Automating academic and administrative procedures and reducing reliance on manual work.
+• الانتقال من السجلات الورقية إلى السجلات الرقمية.
+  Transitioning from paper-based records to digital records.
+• تقليل الوقت والجهد الناتج عن الإجراءات والتسجيل اليدوي.
+  Reducing the time and effort required for manual procedures and registration.
 
-🧠 ثانيًا: الذكاء الرقمي والذكاء الاصطناعي
-🧠 تطوير منظومة الذكاء الرقمي والذكاء الاصطناعي داخل النظام.
-🤖 توظيف الخوارزميات الذكية في معالجة البيانات وتصحيحها وتنظيمها.
-📊 تطوير معالجة وتحليل البيانات والإحصائيات لدعم العمل الإداري والأكاديمي.
-🔗 تنظيم انسيابية البيانات بين وحدات النظام وربط العمليات بصورة أكثر كفاءة.
-⚡ تحسين سرعة تنفيذ العمليات ومعالجة البيانات.
+🧠 ثانيًا: الذكاء الرقمي والذكاء الاصطناعي | 2. Digital Intelligence & Artificial Intelligence
+• تطوير منظومة الذكاء الرقمي والذكاء الاصطناعي داخل النظام.
+  Developing the system's digital-intelligence and artificial-intelligence capabilities.
+• توظيف الخوارزميات الذكية في معالجة البيانات وتصحيحها وتنظيمها.
+  Applying intelligent algorithms to process, correct, and organize data.
+• تطوير معالجة وتحليل البيانات والإحصائيات لدعم العمل الإداري والأكاديمي.
+  Improving data and statistical processing and analysis to support academic and administrative work.
+• تنظيم انسيابية البيانات بين وحدات النظام وربط العمليات بصورة أكثر كفاءة.
+  Improving data flow between system modules and connecting processes more efficiently.
+• تحسين سرعة تنفيذ العمليات ومعالجة البيانات.
+  Improving operation execution speed and data processing.
 
-🎓 ثالثًا: إدارة الطلبة والخريجين
-🎓 تطوير إدارة بيانات الطلبة والخريجين ووثائقهم الأكاديمية.
-📄 تطوير أنظمة تصميم وطباعة الوثائق والشهادات والتأييدات.
-🔗 تحسين ترابط البيانات والعمليات بين وحدات النظام المختلفة.
+🎓 ثالثًا: إدارة الطلبة والخريجين | 3. Student & Graduate Management
+• تطوير إدارة بيانات الطلبة والخريجين ووثائقهم الأكاديمية.
+  Improving the management of student and graduate data and academic documents.
+• تطوير أنظمة تصميم وطباعة الوثائق والشهادات والتأييدات.
+  Improving the design and printing of academic documents, certificates, and endorsements.
+• تحسين ترابط البيانات والعمليات بين وحدات النظام المختلفة.
+  Improving data and process integration across system modules.
 
-📘 رابعًا: التحول إلى الصادر الرقمي
+📘 رابعًا: التحول إلى الصادر الرقمي | 4. Digital Outgoing Correspondence
 وداعًا لدفتر الصادر الورقي — مرحبًا بالصادر الرقمي
-📝 تسجيل الكتب الرسمية إلكترونيًا.
-🔢 تنظيم أرقام الصادر وتسلسلها بصورة رقمية.
-🔎 البحث السريع عن الكتب والمعاملات.
-📊 متابعة حركة الصادر وبياناته.
-🗂️ حفظ المعلومات بصورة منظمة وسهلة الاسترجاع.
-🔐 تعزيز حماية بيانات الكتب والمعاملات.
-⚡ تقليل الوقت والجهد الناتج عن التسجيل اليدوي.
-🌐 الانتقال من دفتر الصادر إلى السجل الرقمي.
+Goodbye to paper-based outgoing registers — welcome to digital correspondence.
+• تسجيل الكتب الرسمية إلكترونيًا. | Electronic registration of official correspondence.
+• تنظيم أرقام الصادر وتسلسلها بصورة رقمية. | Organizing outgoing correspondence numbers and their digital sequence.
+• البحث السريع عن الكتب والمعاملات. | Quickly searching for official letters and transactions.
+• متابعة حركة الصادر وبياناته. | Tracking outgoing correspondence and its details.
+• حفظ المعلومات بصورة منظمة وسهلة الاسترجاع. | Storing information in an organized and easily retrievable format.
+• تعزيز حماية بيانات الكتب والمعاملات. | Strengthening the protection of correspondence and transaction data.
+• تقليل الوقت والجهد الناتج عن التسجيل اليدوي. | Reducing the time and effort required for manual registration.
+• الانتقال من دفتر الصادر إلى السجل الرقمي. | Transitioning from a paper-based outgoing register to a digital register.
 
-🔐 خامسًا: الحماية والأمان
-🔐 تعزيز أمن المعلومات وحماية بيانات الطلبة والخريجين.
-🛡️ تطوير حماية ملفات النظام وقواعد البيانات.
-🛡️ تعزيز حماية عمليات التشغيل والتحديث.
-🔐 حماية بيانات الكتب الرسمية والمعاملات الرقمية.
+🔐 خامسًا: الحماية والأمان | 5. Security & Protection
+• تعزيز أمن المعلومات وحماية بيانات الطلبة والخريجين.
+  Strengthening information security and protecting student and graduate data.
+• تطوير حماية ملفات النظام وقواعد البيانات.
+  Improving the protection of system files and databases.
+• تعزيز حماية عمليات التشغيل والتحديث.
+  Strengthening protection for system operation and update processes.
+• حماية بيانات الكتب الرسمية والمعاملات الرقمية.
+  Protecting official correspondence and digital transaction data.
 
-💻 سادسًا: الأداء والتوافق
-💻 تحسين توافق النظام واستقراره وأدائه ضمن بيئات العمل المختلفة.
-⚡ تحسين سرعة الاستجابة وتنفيذ العمليات.
-🔄 تطوير آليات التشغيل والتحديث بما يدعم استمرارية النظام.
+💻 سادسًا: الأداء والتوافق | 6. Performance & Compatibility
+• تحسين توافق النظام واستقراره وأدائه ضمن بيئات العمل المختلفة.
+  Improving system compatibility, stability, and performance across different working environments.
+• تحسين سرعة الاستجابة وتنفيذ العمليات.
+  Improving response times and operation execution speed.
+• تطوير آليات التشغيل والتحديث بما يدعم استمرارية النظام.
+  Improving operation and update mechanisms to support system continuity.
 
-🎯 الرؤية
-----------------
 
-يمثل SARP AI Pro مرحلة متقدمة في تطور أنظمة إدارة شؤون الطلبة والتسجيل نحو التحول الرقمي والذكاء الرقمي، من خلال بناء بيئة عمل حديثة تعتمد على الأتمتة، وسرعة الإنجاز، وأمن المعلومات، والإدارة الذكية للبيانات.
+🎯 الرؤية | Vision
+========================================
+
+العربية:
+يمثل نظام سارب مرحلة متقدمة في تطور أنظمة إدارة شؤون الطلبة والتسجيل نحو التحول الرقمي والذكاء الرقمي، من خلال بيئة عمل تعتمد على الأتمتة وسرعة الإنجاز وأمن المعلومات والإدارة الذكية للبيانات.
 
 من الورق إلى الرقم.
 من التسجيل اليدوي إلى الأتمتة.
@@ -110,23 +134,45 @@ Digital Transformation • Digital Intelligence • Artificial Intelligence
 من دفتر الصادر إلى الصادر الرقمي.
 من الإجراءات المتفرقة إلى منظومة رقمية متكاملة.
 
-⚡ المبادئ الأساسية
-------------------------------
+English:
+SARP represents an advancement in student affairs and registration systems toward digital transformation and digital intelligence through a working environment focused on automation, timely execution, information security, and intelligent data management.
+
+From paper to digital.
+From manual registration to automation.
+From traditional data to digital intelligence.
+From paper outgoing registers to digital correspondence.
+From disconnected procedures to an integrated digital system.
+
+
+⚡ المبادئ الأساسية | Core Principles
+========================================
 
 Speed • Security • Digital Intelligence • Intelligent Data Management
 السرعة • الأمان • الذكاء الرقمي • الإدارة الذكية للبيانات
 
-⚡ السرعة
-إنجاز العمليات الأكاديمية والإدارية بكفاءة أعلى وتقليل الوقت والجهد.
+⚡ السرعة | Speed
+العربية: إنجاز العمليات الأكاديمية والإدارية بكفاءة أعلى وتقليل الوقت والجهد.
+English: Completing academic and administrative operations more efficiently while reducing time and effort.
 
-🔐 الأمان
-حماية البيانات والملفات والمعاملات وتعزيز أمن المعلومات.
+🔐 الأمان | Security
+العربية: حماية البيانات والملفات والمعاملات وتعزيز أمن المعلومات.
+English: Protecting data, files, and transactions while strengthening information security.
 
-🧠 الذكاء الرقمي
-توظيف التقنيات الرقمية والخوارزميات الذكية لتطوير العمليات وتحسين كفاءة العمل.
+🧠 الذكاء الرقمي | Digital Intelligence
+العربية: توظيف التقنيات الرقمية والخوارزميات الذكية لتطوير العمليات وتحسين كفاءة العمل.
+English: Applying digital technologies and intelligent algorithms to improve processes and operational efficiency.
 
-📊 الإدارة الذكية للبيانات
-تنظيم البيانات وربطها ومعالجتها وتحليلها بصورة دقيقة وفعالة.
+📊 الإدارة الذكية للبيانات | Intelligent Data Management
+العربية: تنظيم البيانات وربطها ومعالجتها وتحليلها بصورة دقيقة وفعالة.
+English: Organizing, connecting, processing, and analyzing data accurately and effectively.
+
+
+📚 سجل الإصدارات | Version History
+========================================
+
+ملاحظة | Note:
+القسم التالي يحتفظ بسجل الإصدارات التاريخي كما ورد في الملف السابق. لم تُحذف الإدخالات القديمة أو يُعاد تفسيرها.
+The following section preserves the historical release notes from the previous file. Older entries have not been removed or reinterpreted.
 
 SARPAI_24.4.4.13
 ------------------
