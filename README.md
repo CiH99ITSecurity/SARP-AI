@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="SARP_AI_ICON.png" alt="أيقونة نظام سارب | SARP AI Icon" width="140">
+<img src="SARP_AI_ICON.png" alt="الأيقونة الرسمية لسارب للذكاء الرقمي | SARP AI Pro Official Icon" width="140">
 
-<h1>نظام سارب</h1>
+<h1>سارب للذكاء الرقمي</h1>
 
 <h2>نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل</h2>
 
@@ -31,17 +31,21 @@ Digital Transformation • Digital Intelligence • Artificial Intelligence
 
 ## العربية
 
-**نظام سارب — نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل** هو نظام مطوّر من نظام سارب الذكاء الاصطناعي، يوظّف خوارزميات الذكاء الاصطناعي وتقنيات التحول الرقمي بهدف تطوير إدارة البيانات وأتمتة الإجراءات والارتقاء بمستوى الأداء.
+**سارب للذكاء الرقمي (SARP AI Pro) — نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل** هو نظام مطوّر من مشروع سارب، يوظّف خوارزميات الذكاء الاصطناعي وتقنيات التحول الرقمي بهدف تطوير إدارة البيانات وأتمتة الإجراءات والارتقاء بمستوى الأداء.
 
 يهدف النظام إلى دعم أعمال شؤون الطلبة والتسجيل في مؤسسات التعليم العالي، وتنظيم البيانات الأكاديمية، وتسهيل الإجراءات الإدارية، ودعم إعداد التقارير والوثائق الرقمية وفق الوظائف المتاحة في النظام.
 
-للاطلاع على معلومات النظام وتوثيقه، يرجى زيارة [الويكي الرسمي لنظام SARP AI Pro](https://github.com/CiH99ITSecurity/SARP-AI/wiki).
+ويُعرَّف المشروع رسميًا بأنه **أول نظام ذكاء رقمي لإدارة شؤون الطلبة والتسجيل في التعليم العالي**.
+
+للاطلاع على معلومات النظام وتوثيقه، يرجى زيارة [الويكي الرسمي لسارب للذكاء الرقمي (SARP AI Pro)](https://github.com/CiH99ITSecurity/SARP-AI/wiki).
 
 ## English
 
-**SARP System — Digital Intelligence System for Student Affairs & Registration** is developed from the SARP artificial intelligence system. It applies intelligent algorithms and digital transformation techniques with the aim of improving data management, automating procedures, and enhancing performance.
+**SARP AI Pro — Digital Intelligence System for Student Affairs & Registration** is the digital intelligence system for student affairs and registration in higher education. It applies intelligent algorithms and digital transformation techniques with the aim of improving data management, automating procedures, and enhancing performance.
 
 The system is intended to support student affairs and registration in higher education institutions, organize academic data, facilitate administrative workflows, and support reporting and digital-document processes according to the functions available in the system.
+
+The project’s official positioning describes it as the **first digital intelligence system for student affairs and registration in higher education**.
 
 For system information and documentation, visit the [official SARP AI Pro Wiki](https://github.com/CiH99ITSecurity/SARP-AI/wiki).
 
@@ -328,9 +332,9 @@ The Wiki provides a central reference for system information, capabilities, usag
 
 <div align="center">
 
-<img src="SARP_AI_LOGO.png" alt="الشعار الرسمي لنظام سارب | SARP Official Logo" width="250">
+<img src="SARP_AI_LOGO.png" alt="الشعار الرسمي لسارب للذكاء الرقمي | SARP AI Pro Official Logo" width="250">
 
-<h2>نظام سارب</h2>
+<h2>سارب للذكاء الرقمي</h2>
 
 <h3>نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل</h3>
 
