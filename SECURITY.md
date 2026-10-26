@@ -1,5 +1,18 @@
 # سياسة الأمان | Security Policy
 
+<p align="center">
+  <img src="SARP_AI_ICON.png" alt="الأيقونة الرسمية لسارب للذكاء الرقمي | SARP AI Pro Official Icon" width="100">
+</p>
+
+<h2 align="center">سارب للذكاء الرقمي</h2>
+<h3 align="center">SARP AI Pro</h3>
+<p align="center">
+  <strong>نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل</strong><br>
+  <strong>Digital Intelligence System for Student Affairs &amp; Registration</strong>
+</p>
+
+---
+
 ## الإصدارات المدعومة | Supported Versions
 
 ### 🇮🇶 العربية
@@ -20,7 +33,7 @@ The version listed below is currently supported with security updates from CiH99
 
 ### 🇮🇶 العربية
 
-إذا اكتشفت ثغرة أمنية في إصدار مدعوم من نظام سارب، يرجى الإبلاغ عنها عبر البريد الإلكتروني التالي:
+إذا اكتشفت ثغرة أمنية في إصدار مدعوم من **سارب للذكاء الرقمي (SARP AI Pro)**، يرجى الإبلاغ عنها عبر البريد الإلكتروني التالي:
 
 **البريد الإلكتروني:** [cih99.com@gmail.com](mailto:cih99.com@gmail.com)
 
@@ -28,7 +41,7 @@ The version listed below is currently supported with security updates from CiH99
 
 ### 🇬🇧 English
 
-If you discover a security vulnerability in a supported version of SARP AI, please report it using the following email address:
+If you discover a security vulnerability in a supported version of **SARP AI Pro**, please report it using the following email address:
 
 **Email:** [cih99.com@gmail.com](mailto:cih99.com@gmail.com)
 
@@ -40,13 +53,13 @@ Please describe the security issue and provide the information necessary to help
 
 ### 🇮🇶 العربية
 
-للحصول على أحدث إصدار من نظام سارب، والاطلاع على الإصدارات المتاحة، يرجى زيارة صفحة الإصدارات الرسمية على GitHub.
+للحصول على أحدث إصدار من **سارب للذكاء الرقمي (SARP AI Pro)**، والاطلاع على الإصدارات المتاحة، يرجى زيارة صفحة الإصدارات الرسمية على GitHub.
 
 **[⬇️ أحدث الإصدارات والتحميل | GitHub Releases](https://github.com/CiH99ITSecurity/SARP-AI/releases)**
 
 ### 🇬🇧 English
 
-To obtain the latest version of SARP AI and view available releases, please visit the official GitHub Releases page.
+To obtain the latest version of **SARP AI Pro** and view available releases, please visit the official GitHub Releases page.
 
 **[⬇️ Latest Releases & Downloads | GitHub Releases](https://github.com/CiH99ITSecurity/SARP-AI/releases)**
 
@@ -54,9 +67,9 @@ To obtain the latest version of SARP AI and view available releases, please visi
 
 <div align="center">
 
-<img src="SARP_AI_ICON.png" alt="SARP AI Official Icon" width="100">
+<img src="SARP_AI_ICON.png" alt="الأيقونة الرسمية لسارب للذكاء الرقمي | SARP AI Pro Official Icon" width="100">
 
-<h2>نظام سارب</h2>
+<h2>سارب للذكاء الرقمي</h2>
 
 <h3>نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل</h3>
 
