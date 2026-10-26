@@ -1,63 +1,72 @@
-# رخصة تنصيب سارب للذكاء الرقمي | SARP AI Pro Setup License
+رخصة تنصيب واستخدام سارب للذكاء الرقمي
+SARP AI Pro Setup and Use License
 
-## العربية
+حقوق النشر (C) 2012-2026 CiH99 IT Security, Inc. جميع الحقوق محفوظة.
+Copyright (C) 2012-2026 CiH99 IT Security, Inc. All rights reserved.
 
-### رخصة تنصيب واستخدام سارب للذكاء الرقمي
+==============================
+العربية
+==============================
 
-حقوق النشر © 2012–2026 CiH99 IT Security, Inc. جميع الحقوق محفوظة.
+اسم المنتج: سارب للذكاء الرقمي (SARP AI Pro)
 
-يُقدَّم **سارب للذكاء الرقمي (SARP AI Pro)** «كما هو»، من دون أي ضمان صريح أو ضمني. ولا يتحمل المؤلف المسؤولية عن الأضرار الناتجة عن استخدام النظام، بالقدر الذي يسمح به القانون المعمول به.
+1. مجانية النظام والترخيص
+نظام SARP AI Pro مجاني للتنزيل. كما أن الترخيص ومفتاح التفعيل مجانيان.
 
-**نظام SARP AI Pro مجاني للتنزيل، والترخيص ومفتاح التفعيل مجانيان أيضًا.** يجوز للمستخدمين إعادة توزيع البرنامج مجانًا، بشرط عدم بيعه أو فرض مقابل مالي على نسخة البرنامج، وعدم إزالة إشعارات حقوق النشر أو تغيير اسم مالك الحقوق أو الشعار أو بيانات الملكية.
+2. الاستخدام والتفعيل
+يجوز للمستخدم تنزيل النظام واستخدامه بعد الحصول على الترخيص ومفتاح التفعيل المعتمدين عبر إجراءات التفعيل الرسمية. مجانية الترخيص ومفتاح التفعيل لا تلغي شرط الحصول عليهما قبل استخدام النظام.
 
-### شروط الاستخدام وإعادة التوزيع
+3. إعادة التوزيع المجاني
+يجوز إعادة توزيع البرنامج مجاناً، بشرط عدم بيع البرنامج أو فرض مقابل مالي لقاء نسخ منه، وعدم تقديمه على أنه مملوك لطرف آخر.
 
-1. **التنزيل والاستخدام:** يجوز تنزيل النظام واستخدامه بعد الحصول على الترخيص ومفتاح التفعيل المجانيين وفق إجراءات التفعيل المعتمدة.
+4. حقوق الملكية
+يجب الحفاظ على إشعارات حقوق النشر واسم مالك الحقوق وبيانات الملكية كما هي. لا يجوز حذفها أو تغييرها أو الادعاء بملكية البرنامج. ويجب عدم تغيير الشعار الرسمي أو استخدامه بطريقة توحي بأن نسخة معدلة صادرة رسمياً عن مالك الحقوق.
 
-2. **إعادة التوزيع المجاني:** يُسمح بإعادة توزيع نسخة البرنامج مجانًا، بشرط عدم بيع البرنامج أو تحصيل مقابل مالي لقاء النسخة، وعدم تغيير إشعارات حقوق النشر أو إزالة بيانات الملكية أو الادعاء بملكية البرنامج.
+5. التعديل
+لا تمنح هذه الرخصة إذناً بتعديل حقوق الملكية أو إزالة إشعاراتها. وأي تعديل أو توزيع لنسخة معدلة يجب ألا يوحي بأنها نسخة رسمية صادرة عن مالك الحقوق.
 
-3. **حقوق الملكية:** يجب الاحتفاظ بإشعارات حقوق النشر وبيانات الملكية كما هي. ولا يمنح هذا الترخيص حق تغيير اسم صاحب الحقوق أو الشعار الرسمي أو تقديم النظام على أنه مملوك لطرف آخر.
+6. عدد النسخ داخل المؤسسة
+تخضع أعداد النسخ التي يجوز تثبيتها داخل المؤسسة لأي شروط إضافية موثقة ومعلنة من مالك الحقوق أو واردة في اتفاقية التعاون المعمول بها.
 
-4. **التعديل:** لا يُسمح بتعديل البرنامج أو إزالة إشعارات الملكية على نحو يوحي بأن النسخة المعدلة منتج رسمي صادر عن صاحب الحقوق. ولا يمنح السماح بإعادة التوزيع المجاني إذنًا ضمنيًا بتغيير الملكية الفكرية.
+7. إخلاء المسؤولية
+يُقدَّم النظام «كما هو»، دون ضمان صريح أو ضمني، بالقدر الذي يسمح به القانون المعمول به. ولا يتحمل مالك الحقوق المسؤولية عن الأضرار الناتجة عن استخدام النظام، بالقدر الذي يسمح به القانون.
 
-5. **التفعيل:** يجب الحصول على ترخيص صالح ومفتاح تفعيل معتمد قبل استخدام النظام، رغم أن كليهما مجاني.
+لمزيد من المعلومات حول الشروط:
+https://cih99.com/license.html
 
-6. **حدود النسخ:** تخضع أعداد النسخ المثبتة داخل المؤسسة لأي شروط إضافية موثقة ومعلنة من صاحب الحقوق. ولا يُفسَّر هذا النص وحده على أنه إلغاء لأي قيود موثقة أخرى.
-
-7. **إخلاء المسؤولية:** يُقدَّم النظام «كما هو»، دون ضمانات صريحة أو ضمنية، بالقدر الذي يسمح به القانون المعمول به.
-
-لمزيد من المعلومات حول الشروط، تفضل بزيارة: https://cih99.com/license.html
-
-CiH99 IT Security, Inc.  
+CiH99 IT Security, Inc.
 https://www.cih99.com
 
----
 
-## English
+==============================
+ENGLISH
+==============================
 
-### SARP AI Pro Setup and Use License
+Product name: SARP AI Pro (سارب للذكاء الرقمي)
 
-Copyright © 2012–2026 CiH99 IT Security, Inc. All rights reserved.
+1. Free Software and License
+SARP AI Pro is free to download. The license and activation key are also provided free of charge.
 
-**SARP AI Pro is free to download, and its license and activation key are also free of charge.** Users may redistribute the software free of charge, provided that they do not sell the software or charge a fee for a copy, and do not remove or alter copyright notices, the rights holder’s name, the official logo, or ownership information.
+2. Use and Activation
+Users may download and use the system after obtaining the approved license and activation key through the official activation process. The fact that the license and activation key are free does not waive the requirement to obtain them before using the system.
 
-### Terms of Use and Free Redistribution
+3. Free Redistribution
+The software may be redistributed free of charge, provided that it is not sold, no fee is charged for copies, and it is not presented as being owned by another party.
 
-1. **Download and use:** Users may download and use the system after obtaining the free license and activation key through the approved activation process.
+4. Ownership Rights
+Copyright notices, the rights holder's name, and ownership information must remain intact. They must not be removed or changed, and users must not claim ownership of the software. The official logo must not be changed or used in a way that falsely suggests a modified copy is an official release by the rights holder.
 
-2. **Free redistribution:** Redistribution of the software at no charge is permitted, provided that the software is not sold, no fee is charged for a copy, and copyright and ownership notices are not changed or removed. Redistributors must not claim ownership of the software.
+5. Modification
+This license does not grant permission to alter ownership rights or remove ownership notices. Any modification or distribution of a modified copy must not falsely imply that it is an official release by the rights holder.
 
-3. **Ownership rights:** Copyright notices and ownership information must remain intact. This license does not grant permission to change the rights holder’s name or official logo, or to present the system as owned by another party.
+6. Copies Within an Organization
+The number of copies that may be installed within an organization remains subject to any additional terms documented and announced by the rights holder or included in the applicable cooperation agreement.
 
-4. **Modification:** The software must not be modified in a way that removes ownership notices or falsely presents a modified copy as an official product issued by the rights holder. Permission to redistribute the software free of charge does not imply permission to alter intellectual-property ownership.
+7. Disclaimer
+The system is provided "as is," without express or implied warranties, to the extent permitted by applicable law. The rights holder shall not be liable for damages arising from use of the system, to the extent permitted by law.
 
-5. **Activation:** A valid license and approved activation key must be obtained before using the system, even though both are free of charge.
+For more information about the terms:
+https://cih99.com/license.html
 
-6. **Copy limits:** Any limits on the number of copies installed within an organization remain subject to additional terms documented and announced by the rights holder. This text alone does not cancel any other documented restrictions.
-
-7. **Disclaimer:** The system is provided “as is,” without express or implied warranties, to the extent permitted by applicable law.
-
-For more information about the terms, visit: https://cih99.com/license.html
-
-CiH99 IT Security, Inc.  
+CiH99 IT Security, Inc.
 https://www.cih99.com
