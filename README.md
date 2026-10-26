@@ -27,7 +27,7 @@ Digital Transformation • Digital Intelligence • Artificial Intelligence
 
 ---
 
-# نبذة عن النظام | About the System
+#  نبذة عن النظام | About the System
 
 ## العربية
 
