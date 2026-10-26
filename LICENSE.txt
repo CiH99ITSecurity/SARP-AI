@@ -1,61 +1,63 @@
-# رخصة تنصيب نظام سارب | SARPAI System Setup License
+# رخصة تنصيب سارب للذكاء الرقمي | SARP AI Pro Setup License
 
 ## العربية
 
-﻿رخصة تنصيب نظام SARPAI
-=============================
+### رخصة تنصيب واستخدام سارب للذكاء الرقمي
 
-ما لم يُذكر خلاف ذلك، فإن جميع الوثائق والبرمجيات المضمّنة في حزمة تنصيب SARPAI محمية بحقوق النشر لصالح CiH99 IT Security, Inc.
+حقوق النشر © 2012–2026 CiH99 IT Security, Inc. جميع الحقوق محفوظة.
 
-حقوق النشر (C) 2012-2026 CiH99 IT Security, Inc. جميع الحقوق محفوظة.
+يُقدَّم **سارب للذكاء الرقمي (SARP AI Pro)** «كما هو»، من دون أي ضمان صريح أو ضمني. ولا يتحمل المؤلف المسؤولية عن الأضرار الناتجة عن استخدام النظام، بالقدر الذي يسمح به القانون المعمول به.
 
-يُقدَّم نظام SARPAI «كما هو»، من دون أي ضمان صريح أو ضمني. ولا يتحمل المؤلف، في أي حال، المسؤولية عن أي أضرار ناتجة عن استخدام هذا النظام.
+**نظام SARP AI Pro مجاني للتنزيل، والترخيص ومفتاح التفعيل مجانيان أيضًا.** يجوز للمستخدمين إعادة توزيع البرنامج مجانًا، بشرط عدم بيعه أو فرض مقابل مالي على نسخة البرنامج، وعدم إزالة إشعارات حقوق النشر أو تغيير اسم مالك الحقوق أو الشعار أو بيانات الملكية.
 
-يُسمح لأي شخص باستخدام SARPAI لأي غرض، بما في ذلك التطبيقات التجارية، وكذلك تعديله وإعادة توزيعه.
+### شروط الاستخدام وإعادة التوزيع
 
-يرجى ملاحظة أن استخدام SARPAI يخضع للشروط والأحكام الواردة في اتفاقية التعاون التي تم بموجبها الحصول على النظام، على أن تُستوفى الشروط التالية:
+1. **التنزيل والاستخدام:** يجوز تنزيل النظام واستخدامه بعد الحصول على الترخيص ومفتاح التفعيل المجانيين وفق إجراءات التفعيل المعتمدة.
 
-1. حقوق التثبيت والاستخدام: يجوز لك تثبيت نسخة واحدة فقط من SARPAI واستخدامها. كما يجوز لك تثبيت 3 نسخ عند الحاجة إلى توزيع SARPAI داخل مؤسستك.
+2. **إعادة التوزيع المجاني:** يُسمح بإعادة توزيع نسخة البرنامج مجانًا، بشرط عدم بيع البرنامج أو تحصيل مقابل مالي لقاء النسخة، وعدم تغيير إشعارات حقوق النشر أو إزالة بيانات الملكية أو الادعاء بملكية البرنامج.
 
-2. يجب أن تحتفظ جميع عمليات إعادة توزيع ملفات المصدر بإشعارات حقوق النشر الموجودة حالياً، وبقائمة الشروط هذه من دون أي تعديل.
+3. **حقوق الملكية:** يجب الاحتفاظ بإشعارات حقوق النشر وبيانات الملكية كما هي. ولا يمنح هذا الترخيص حق تغيير اسم صاحب الحقوق أو الشعار الرسمي أو تقديم النظام على أنه مملوك لطرف آخر.
 
-3. لا يجوز لك استخدام SARPAI ما لم تحصل على ترخيص صالح للنظام من الجهة المسؤولة عن ترميز الخادم أو من موزّعها المعتمد.
-   لمزيد من المعلومات حول الشروط، تفضل بزيارة: https://cih99.com/license.html
+4. **التعديل:** لا يُسمح بتعديل البرنامج أو إزالة إشعارات الملكية على نحو يوحي بأن النسخة المعدلة منتج رسمي صادر عن صاحب الحقوق. ولا يمنح السماح بإعادة التوزيع المجاني إذنًا ضمنيًا بتغيير الملكية الفكرية.
 
+5. **التفعيل:** يجب الحصول على ترخيص صالح ومفتاح تفعيل معتمد قبل استخدام النظام، رغم أن كليهما مجاني.
 
-CiH99 IT Security, Inc.
+6. **حدود النسخ:** تخضع أعداد النسخ المثبتة داخل المؤسسة لأي شروط إضافية موثقة ومعلنة من صاحب الحقوق. ولا يُفسَّر هذا النص وحده على أنه إلغاء لأي قيود موثقة أخرى.
+
+7. **إخلاء المسؤولية:** يُقدَّم النظام «كما هو»، دون ضمانات صريحة أو ضمنية، بالقدر الذي يسمح به القانون المعمول به.
+
+لمزيد من المعلومات حول الشروط، تفضل بزيارة: https://cih99.com/license.html
+
+CiH99 IT Security, Inc.  
 https://www.cih99.com
 
 ---
 
 ## English
 
-SARPAI System Setup License
-=============================
+### SARP AI Pro Setup and Use License
 
-Except where otherwise noted, all of the documentation and software included in the SARPAI Setup
-package is copyrighted by CiH99 IT Security, Inc.
+Copyright © 2012–2026 CiH99 IT Security, Inc. All rights reserved.
 
-Copyright (C)  2012-2026 CiH99 IT Security, Inc. All rights reserved.
+**SARP AI Pro is free to download, and its license and activation key are also free of charge.** Users may redistribute the software free of charge, provided that they do not sell the software or charge a fee for a copy, and do not remove or alter copyright notices, the rights holder’s name, the official logo, or ownership information.
 
-This SARPAI is provided "as-is," without any express or implied warranty. In no event shall the
-author be held liable for any damages arising from the use of this SARPAI.
+### Terms of Use and Free Redistribution
 
-Permission is granted to anyone to use this SARPAI for any purpose, including commercial
-applications, and to alter and redistribute it
+1. **Download and use:** Users may download and use the system after obtaining the free license and activation key through the approved activation process.
 
+2. **Free redistribution:** Redistribution of the software at no charge is permitted, provided that the software is not sold, no fee is charged for a copy, and copyright and ownership notices are not changed or removed. Redistributors must not claim ownership of the software.
 
-Please note: This SARPAI is subject to the terms and conditions of the cooperation agreement that obtained this SARPAI, provided that the following conditions are met:
+3. **Ownership rights:** Copyright notices and ownership information must remain intact. This license does not grant permission to change the rights holder’s name or official logo, or to present the system as owned by another party.
 
-1. Installation and use rights. You may install and use only one copy of the SARPAI. 
-   You may also install 3 copies as you need to distribute the SARPAI within your organization.
+4. **Modification:** The software must not be modified in a way that removes ownership notices or falsely presents a modified copy as an official product issued by the rights holder. Permission to redistribute the software free of charge does not imply permission to alter intellectual-property ownership.
 
-2. All redistributions of source code files must retain all copyright notices that are currently in
-   place, and this list of conditions without modification.
+5. **Activation:** A valid license and approved activation key must be obtained before using the system, even though both are free of charge.
 
-3. You may not use this SARPAI if you have not obtained a valid license for the SARPAI from the server encoder or its authorized distributor. 
-   For more information about the conditions, visit : https://cih99.com/license.html
+6. **Copy limits:** Any limits on the number of copies installed within an organization remain subject to additional terms documented and announced by the rights holder. This text alone does not cancel any other documented restrictions.
 
+7. **Disclaimer:** The system is provided “as is,” without express or implied warranties, to the extent permitted by applicable law.
 
-CiH99 IT Security, Inc.
+For more information about the terms, visit: https://cih99.com/license.html
+
+CiH99 IT Security, Inc.  
 https://www.cih99.com
