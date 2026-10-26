@@ -15,11 +15,11 @@
 
 ## الإصدارات المدعومة | Supported Versions
 
-### 🇮🇶 العربية
+### العربية
 
 الإصدارات المدرجة أدناه مدعومة حاليًا بتحديثات الأمان من CiH99 IT Security.
 
-### 🇬🇧 English
+### English
 
 The version listed below is currently supported with security updates from CiH99 IT Security.
 
@@ -31,7 +31,7 @@ The version listed below is currently supported with security updates from CiH99
 
 ## الإبلاغ عن ثغرة أمنية | Reporting a Vulnerability
 
-### 🇮🇶 العربية
+### العربية
 
 إذا اكتشفت ثغرة أمنية في إصدار مدعوم من **سارب للذكاء الرقمي (SARP AI Pro)**، يرجى الإبلاغ عنها عبر البريد الإلكتروني التالي:
 
@@ -39,7 +39,7 @@ The version listed below is currently supported with security updates from CiH99
 
 يرجى توضيح طبيعة المشكلة الأمنية وتقديم المعلومات اللازمة للمساعدة في فهمها والتحقق منها.
 
-### 🇬🇧 English
+### English
 
 If you discover a security vulnerability in a supported version of **SARP AI Pro**, please report it using the following email address:
 
@@ -51,13 +51,13 @@ Please describe the security issue and provide the information necessary to help
 
 ## أحدث الإصدارات والتحميل | Latest Releases & Downloads
 
-### 🇮🇶 العربية
+### العربية
 
 للحصول على أحدث إصدار من **سارب للذكاء الرقمي (SARP AI Pro)**، والاطلاع على الإصدارات المتاحة، يرجى زيارة صفحة الإصدارات الرسمية على GitHub.
 
 **[⬇️ أحدث الإصدارات والتحميل | GitHub Releases](https://github.com/CiH99ITSecurity/SARP-AI/releases)**
 
-### 🇬🇧 English
+### English
 
 To obtain the latest version of **SARP AI Pro** and view available releases, please visit the official GitHub Releases page.
 
