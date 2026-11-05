@@ -221,7 +221,7 @@ The role of each technology depends on the implementation of the relevant system
 
 يرجى مشاهدة فيديوهات التثبيت والإرشادات قبل تثبيت النظام:
 
-1. [فيديو التثبيت الأول](https://www.youtube.com/watch?v=jN2BUSWZhRY)
+1. [فيديو التثبيت الأول](https://www.youtube.com/playlist?list=PLARYKQV3Tg90)
 2. [فيديو التثبيت الثاني](https://youtu.be/5fMlJIVczOY?feature=shared)
 3. [قائمة فيديوهات النظام](https://www.youtube.com/playlist?list=PLijG1jBpJM-D8owNAwFrX8pi98V1O50Kd)
 
@@ -233,7 +233,7 @@ Visit the official GitHub release page for SARP AI Pro v26.6.6.6 and review the 
 
 Please review the installation videos and instructions before installing:
 
-1. [Installation Video 1](https://www.youtube.com/watch?v=jN2BUSWZhRY)
+1. [Installation Video 1](https://www.youtube.com/playlist?list=PLARYKQV3Tg90)
 2. [Installation Video 2](https://youtu.be/5fMlJIVczOY?feature=shared)
 3. [System Video Playlist](https://www.youtube.com/playlist?list=PLijG1jBpJM-D8owNAwFrX8pi98V1O50Kd)
 
