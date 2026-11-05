@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="SARP_AI_ICON.png" alt="الأيقونة الرسمية لسارب للذكاء الرقمي | SARP AI Pro Official Icon" width="140">
-
+ <br>
+<img src="SARP_AI_Logo.webp" alt="SARP AI Pro Logo" width="500">
 <h1>سارب للذكاء الرقمي</h1>
 
 <h2>نظام الذكاء الرقمي لإدارة شؤون الطلبة والتسجيل</h2>
