@@ -1,0 +1,58 @@
+SARP AI Pro
+EXECUTABLE FILE INTEGRITY VERIFICATION
+SHA-512 CHECKSUM
+
+This document explains how to verify the downloaded SARP AI Pro executable
+before running or installing it.
+
+Release file:
+SARPAI.exe
+
+Hash algorithm:
+SHA-512
+
+Published checksum:
+3EF2A4FEFC66160CC471BF6A554FCA33A5722E1D524339214F20D131A692A3B7254FFD590C7E0474B988AEFC8C19CB16B6BF4DFF506330802F15AD889719FFED
+
+
+HOW TO VERIFY ON WINDOWS
+
+1. Download SARPAI.exe from the official SARP AI Pro source.
+2. Open the folder containing SARPAI.exe.
+3. Click the File Explorer address bar, type powershell, and press Enter.
+4. Run this command:
+
+   Get-FileHash "C:\SARP\SARPAI.exe" -Algorithm SHA512
+
+5. Compare the complete Hash value returned by Windows with the published
+   checksum shown in this document.
+
+TIP: If PowerShell shortens the displayed result, run:
+
+   (Get-FileHash "C:\SARP\SARPAI.exe" -Algorithm SHA512).Hash
+
+This displays the complete 128-character SHA-512 value.
+
+HOW TO READ THE RESULT
+
+- MATCH: If both SHA-512 values are identical, the executable matches the
+  published checksum.
+- NO MATCH: If the values differ, the executable is not identical to the
+  file represented by this checksum. Do not run it as a verified release.
+  Download the file again from the official SARP AI Pro source and check it
+  once more.
+
+IMPORTANT SECURITY NOTE
+
+A matching SHA-512 checksum confirms that the downloaded executable matches
+the published checksum. It does not, by itself, prove the identity of the
+publisher or guarantee that the software is safe. For stronger publisher
+verification, the executable should also be digitally signed with a trusted
+code-signing certificate.
+
+Product:
+SARP AI Pro
+Digital Intelligence System for Higher Education
+
+Keep this document with the executable release. Whenever SARPAI.exe is
+updated or replaced, calculate and publish a new SHA-512 checksum.
