@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> <!--https://www.sarp.cih99.com/-->
+<SARPUpdate>
+	<update appId="SARP®AI">
+		<version>26.6.6.6</version>
+		<url>http://sarp.cih99.com/Update/SARP_AI_Pro_6_Setup.zip</url>
+		<fileName>SARP_AI_Pro_6_Setup.zip</fileName>
+		<md5>6d4e6ee5a948b4eddd989aac87cac447</md5>
+		<description>
+v26.6.6.6 (Build 6/11/2026)
+----------------------------
+✅ Digital Intelligence System
+
+		</description>
+		<launchArgs>SARPAI</launchArgs>
+	</update>
+</SARPUpdate>
