@@ -1,0 +1,9 @@
+﻿; استبدل تعريفات اللغات الحالية بهذه الأسطر، بعد وضع ملفات اللغة الستة في مجلد App.Publish.
+; ملاحظة: أزل من قسم [Setup] التعريفات العامة التالية لأنها ستُحدَّد حسب اللغة:
+; LicenseFile=...
+; InfoBeforeFile=...
+; InfoAfterFile=...
+
+[Languages]
+Name: "english"; MessagesFile: "compiler:Default.isl"; LicenseFile: "C:\CIH99_JOB\7 - SARP®AI System\2- In Development\App.Publish\LICENSE_EN.txt"; InfoBeforeFile: "C:\CIH99_JOB\7 - SARP®AI System\2- In Development\App.Publish\SYSTEM_EN.txt"; InfoAfterFile: "C:\CIH99_JOB\7 - SARP®AI System\2- In Development\App.Publish\README_EN.txt"
+Name: "arabic"; MessagesFile: "compiler:Languages\Arabic.isl"; LicenseFile: "C:\CIH99_JOB\7 - SARP®AI System\2- In Development\App.Publish\LICENSE_AR.txt"; InfoBeforeFile: "C:\CIH99_JOB\7 - SARP®AI System\2- In Development\App.Publish\SYSTEM_AR.txt"; InfoAfterFile: "C:\CIH99_JOB\7 - SARP®AI System\2- In Development\App.Publish\README_AR.txt"
