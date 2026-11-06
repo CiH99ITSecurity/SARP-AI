@@ -1,8 +1,0 @@
-                    SARP®AI GENERAL PUBLIC LICENSE
-                       Version 4, April 2021
-
- Copyright (C) 2021 CiH99 IT Security, Inc.
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
-
-The SARP®AI are distributed under the GPL license ([http://www.fsf.org/licenses/gpl.html]).
