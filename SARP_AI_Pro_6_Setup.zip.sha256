@@ -1,0 +1,52 @@
+SARP AI Pro
+RELEASE PACKAGE INTEGRITY VERIFICATION
+SHA-256 CHECKSUM
+
+This document explains how to verify the downloaded SARP AI Pro setup
+archive before extracting or installing it.
+
+Release package:
+SARP_AI_Pro_6_Setup.zip
+
+Hash algorithm:
+SHA-256
+
+Published checksum:
+820478224b1c9865f6078167d38e0ee782b0a99fb4b12d2ca8a8f4c8cd76bc51
+
+
+HOW TO VERIFY ON WINDOWS
+
+1. Download SARP_AI_Pro_6_Setup.zip.
+2. Open the folder containing the ZIP file.
+3. Click the File Explorer address bar, type powershell, and press Enter.
+4. Run this command:
+
+   Get-FileHash ".\SARP_AI_Pro_6_Setup.zip" -Algorithm SHA256
+
+5. Compare the Hash value returned by Windows with the published checksum
+   shown in this document.
+
+HOW TO READ THE RESULT
+
+- MATCH: If both SHA-256 values are identical, the ZIP archive matches the
+  published checksum.
+- NO MATCH: If the values differ, the archive is not identical to the file
+  represented by this checksum. Do not install it as a verified release.
+  Download the package again from the official SARP AI Pro source and check
+  it again.
+
+IMPORTANT SECURITY NOTE
+
+A matching SHA-256 checksum confirms that the downloaded archive matches
+the published checksum. It does not, by itself, prove the identity of the
+publisher or guarantee that the software is safe. For stronger publisher
+verification, the release should also be digitally signed with a trusted
+code-signing certificate.
+
+Product:
+SARP AI Pro
+Digital Intelligence System for Higher Education
+
+Keep this document with the release package. Whenever the ZIP archive is
+updated or replaced, calculate and publish a new SHA-256 checksum.
