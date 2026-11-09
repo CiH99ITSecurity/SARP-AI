@@ -1,0 +1,19 @@
+exclude:
+  - DB
+  - Forms
+  - Installer
+  - Languages
+  - Programs_Lang
+  - Resources
+  - Update
+  - ar
+  - etc
+  - "*.config"
+  - "*.dll"
+  - "*.exe"
+  - "*.py"
+  - "*.sha256"
+  - "*.xlsb"
+  - "*.xlsm"
+  - "*.xlsx"
+  - "*.zip"
